@@ -1,6 +1,17 @@
+@font-face {
+  font-family: "Zoff";
+  src: url("./zoff.woff");
+}
+
+@font-face {
+  font-family: "Zoff2";
+  src: url("./zoff2.woff");
+}
+
 h1{
   font-family: "Zoff" !important;
 }
+
 h2{
   font-family: "Zoff2" !important;
 }
