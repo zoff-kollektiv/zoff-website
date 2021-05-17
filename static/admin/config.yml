@@ -43,4 +43,4 @@ collections:
       preview: false
     fields:
       - {label: "Name", name: "title", widget: "string"}
-      - {label: "Projects", name: "projects", widget: "list", fields: [{label: "Caption", name: "caption", widget: "string"}, {label: "Project URL", name: "project_url", widget: "string"}, {label: 'Image', name: 'image', widget: 'image'}] }
+      - {label: "Projects", name: "projects", widget: "list", fields: [{label: "Caption", name: "caption", widget: "string"}, {label: "Project URL", name: "project_url", widget: "string", required: false}, {label: 'Image', name: 'image', widget: 'image'}] }
