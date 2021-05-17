@@ -3,7 +3,7 @@ title: Process
 projects:
   - caption: About United
     project_url: ""
-    image: /public/process-aboutunited.jpg
+    image: /images/process-aboutunited.jpg
   - caption: Analyse und Kritik
-    image: /public/process-ak.jpg
+    image: /images/process-ak.jpg
 ---

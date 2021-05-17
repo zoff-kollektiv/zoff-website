@@ -18,7 +18,7 @@ backend:
   #   deleteMedia: '[skip ci] Delete “{{path}}”'
 
 media_folder: static/images
-public_folder: /public
+public_folder: /images
 
 collections:
   - name: pages

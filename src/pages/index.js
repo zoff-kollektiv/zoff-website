@@ -4,18 +4,41 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const IndexPage = ({ data }) => (
-  <Layout>
-    <Seo title="Projects" />
-    { console.log(data) }    
-    <p>
-      <Link to="/about/">Go to about</Link> <br />
-    </p>
-  </Layout>
-)
+
+const IndexPage = ({ data }) => {
+  const Projects = ({ projects }) => {
+    return projects.map(project => {
+     return ( <>
+         <h2 key={ project.caption }>{ project.caption }</h2>
+         <img src={ project.image } />
+       </>)
+    }
+    )
+  }
+
+  const Categories = () => {
+    return data.allMarkdownRemark.edges.map(category => {
+     return ( <>
+       <h1 key={ category.node.id }>{ category.node.frontmatter.title }</h1>
+       <Projects projects={ category.node.frontmatter.projects } />
+       </>)
+    }
+    )
+  }
+
+  return (
+    <Layout>
+      <Seo title="Projects" />
+      { <Categories /> }    
+      <p>
+        <Link to="/about/">ZOFF</Link> <br />
+      </p>
+    </Layout>
+  )
+}
 
 export const query = graphql`
-  query Projects {
+  query MyQuery {
     allMarkdownRemark {
       edges {
         node {
@@ -26,6 +49,7 @@ export const query = graphql`
               image
               project_url
             }
+            title
           }
         }
       }
