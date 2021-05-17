@@ -1,0 +1,46 @@
+local_backend:
+  url: http://localhost:8081/api/v1
+
+backend:
+  name: proxy
+  proxy_url: http://localhost:8081/api/v1
+  branch: master # optional, defaults to master
+
+  # name: gitlab
+  # repo: namespace/reponame.gitlab.io
+  # auth_type: implicit
+  # app_id:
+  # commit_messages:
+  #   create: 'Create {{collection}} “{{slug}}”'
+  #   update: 'Update {{collection}} “{{slug}}”'
+  #   delete: 'Delete {{collection}} “{{slug}}”'
+  #   uploadMedia: '[skip ci] Upload “{{path}}”'
+  #   deleteMedia: '[skip ci] Delete “{{path}}”'
+
+media_folder: static/images
+public_folder: /public
+
+collections:
+  - name: pages
+    label: Pages
+    folder: "src/pages"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "select", options: ["page", "home", "campaign"], default: "page"}
+      - {label: "Locale", name: "locale", widget: "select", options: ["de", "en"]}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: project_categories
+    label: Project categories
+    folder: "src/project_categories"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Projects", name: "projects", widget: "list", fields: [{label: "Caption", name: "caption", widget: "string"}, {label: "Project URL", name: "project_url", widget: "string"}, {label: 'Image', name: 'image', widget: 'image'}] }
