@@ -25,11 +25,11 @@ const IndexPage = ({ data }) => {
   const initSelectionSchema = () => {
     let schema = data.allMarkdownRemark.edges
       .map(category => [
-        // category.node.frontmatter.orderNumber,
-        category.node.frontmatter.title,
+        category.node.frontmatter.order,
         category.node.frontmatter.title,
       ])
-      .sort((a, b) => (a[0] > b[0] ? 1 : -1)) .map(category => category[1])
+      .sort((a, b) => (a[0] > b[0] ? 1 : -1))
+      .map(category => category[1])
     setSelectionSchema(schema)
 
     const startingPoint = schema[getRndInteger(0, 4)]
@@ -46,11 +46,12 @@ const IndexPage = ({ data }) => {
       projects[categoryTitle] = category.node.frontmatter.projects
     })
 
-    //
-    const maxSth = Math.max(...Object.values(projects).map(val => val.length))
+    // Maximum number of images in one of the categories
+    const maxImageNo = Math.max(
+      ...Object.values(projects).map(val => val.length)
+    )
 
-    //
-    const selectionArray = Array(maxSth).fill(selectionSchema).flat()
+    const selectionArray = Array(maxImageNo).fill(selectionSchema).flat()
 
     // Traverse projects array following selectionSchema and startingPoint
     // and fill array of images / projects to be displayed
@@ -60,10 +61,8 @@ const IndexPage = ({ data }) => {
 
     remProjects = remProjects.reverse().filter(Boolean)
 
-    if (remProjects.length > 0) {
-      setDisplayedProjects([remProjects.pop()]);
-    }
-    setRemainingProjects(remProjects);
+    if (remProjects.length > 0) setDisplayedProjects([remProjects.pop()])
+    setRemainingProjects(remProjects)
   }
 
   const displayNextProject = () => {
@@ -104,6 +103,7 @@ export const query = graphql`
               project_url
             }
             title
+            order
           }
         }
       }

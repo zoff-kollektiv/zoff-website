@@ -1,5 +1,6 @@
 ---
 title: Extra
+order: 3
 projects:
   - caption: Bug
     project_url: ""
