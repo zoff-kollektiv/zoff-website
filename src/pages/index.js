@@ -57,7 +57,6 @@ const IndexPage = ({ data }) => {
     // Traverse projects array following selectionSchema and startingPoint
     // and fill array of images / projects remaining with random image from category
     selectionIndexArray.forEach(index => {
-
       let randomIndex = getRndInteger(0, projects[index].length)
       let newItem = projects[index][randomIndex]
       remProjects.push(newItem)
@@ -77,15 +76,20 @@ const IndexPage = ({ data }) => {
   }
 
   const displayNextProject = () => {
-    const newProject = remainingProjects.pop()
-    setDisplayedProjects(displayedProjects => [...displayedProjects, newProject])
+    if (remainingProjects.length > 0) {
+      const newProject = remainingProjects.pop()
+      setDisplayedProjects(displayedProjects => [
+        ...displayedProjects,
+        newProject,
+      ])
+    }
   }
 
   const Projects = () => {
     return displayedProjects.map(project => (
       <div className="image-container" onClick={displayNextProject}>
-         <img src={ project.image } />
-         <div className="image-cross-overlay">＋</div>
+        <img src={project.image} />
+        <div className="image-cross-overlay">＋</div>
       </div>
     ))
   }
@@ -95,7 +99,10 @@ const IndexPage = ({ data }) => {
       <Seo title="Projects" />
       { <Categories /> }
       <p>
-        <Link className='about-link' to="/about/">zoff</Link> <br />
+        <Link className="about-link" to="/about/">
+          zoff
+        </Link>{" "}
+        <br />
       </p>
     </Layout>
   )
@@ -103,7 +110,9 @@ const IndexPage = ({ data }) => {
 
 export const query = graphql`
   query MyQuery {
-    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(project_categories)/" }}) {
+    allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/(project_categories)/" } }
+    ) {
       edges {
         node {
           id
