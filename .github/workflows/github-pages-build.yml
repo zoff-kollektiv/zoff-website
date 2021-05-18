@@ -6,6 +6,12 @@ on:
       - github_actions
 
 jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Audit npm pkts
+        run: yarn audit
   build:
     runs-on: ubuntu-latest
     steps:
