@@ -4,11 +4,11 @@ order: 3
 projects:
   - caption: Bug
     project_url: ""
-    image: /images/extra-bug.jpg
+    image: extra-bug.jpg
   - caption: figma
-    image: /images/extra-figma.jpg
+    image: extra-figma.jpg
     project_url: ""
   - caption: Zoom
-    image: /images/extra-zoom.jpg
+    image: extra-zoom.jpg
     project_url: ""
 ---

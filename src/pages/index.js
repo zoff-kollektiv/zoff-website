@@ -1,7 +1,7 @@
 import * as React from "react"
 import { useState, useEffect } from "react"
 import { Link, graphql } from "gatsby"
-
+import Image from '../components/image';
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
@@ -95,7 +95,7 @@ const IndexPage = ({ data }) => {
             className="image-container"
             onClick={isFirst ? displayNextProject : undefined}
           >
-            <img className={isFirst ? "first-image" : ""} src={project.image} />
+            <Image className={isFirst ? "first-image" : ""} name={project.image} />
             {isFirst ? <div className="image-cross-overlay">＋</div> : ""}
             <figcaption>{project.caption}</figcaption>
           </div>
