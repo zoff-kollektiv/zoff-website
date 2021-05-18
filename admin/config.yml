@@ -2,20 +2,8 @@ local_backend:
   url: http://localhost:8081/api/v1
 
 backend:
-  name: proxy
-  proxy_url: http://localhost:8081/api/v1
-  branch: master # optional, defaults to master
-
-  # name: gitlab
-  # repo: namespace/reponame.gitlab.io
-  # auth_type: implicit
-  # app_id:
-  # commit_messages:
-  #   create: 'Create {{collection}} “{{slug}}”'
-  #   update: 'Update {{collection}} “{{slug}}”'
-  #   delete: 'Delete {{collection}} “{{slug}}”'
-  #   uploadMedia: '[skip ci] Upload “{{path}}”'
-  #   deleteMedia: '[skip ci] Delete “{{path}}”'
+  name: github
+  repo: coderat-collective/zoff-website
 
 media_folder: static/images
 public_folder: /images
