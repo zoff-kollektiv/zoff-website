@@ -5,8 +5,8 @@ backend:
   name: github
   repo: coderat-collective/zoff-website
 
-media_folder: static/images
-public_folder: /images
+media_folder: src/images
+public_folder: ''
 
 collections:
   - name: pages
