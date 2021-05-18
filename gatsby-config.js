@@ -9,6 +9,8 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-transformer-remark`,
     `gatsby-plugin-netlify-cms`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -16,7 +18,8 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-offline`,
+    }
   ],
 }
