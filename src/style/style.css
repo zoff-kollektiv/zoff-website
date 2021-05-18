@@ -8,10 +8,20 @@
   src: url("./zoff2.woff");
 }
 
-h1{
+* {
   font-family: "Zoff" !important;
+  color: black;
 }
 
 h2{
   font-family: "Zoff2" !important;
+}
+
+.about-link {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 7rem;
+  position: fixed;
+  bottom: 4rem;
+  right: 3rem;
 }
