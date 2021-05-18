@@ -23,16 +23,14 @@ public_folder: /images
 collections:
   - name: pages
     label: Pages
-    folder: "src/pages"
-    create: true
-    slug: "{{slug}}"
     editor:
       preview: false
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "select", options: ["page", "home", "campaign"], default: "page"}
-      - {label: "Locale", name: "locale", widget: "select", options: ["de", "en"]}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+    files:
+      - file: "src/pages/about.md"
+        name: about
+        label: About
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
 
   - name: project_categories
     label: Project categories

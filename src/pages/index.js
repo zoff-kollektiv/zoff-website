@@ -90,7 +90,7 @@ const IndexPage = ({ data }) => {
 
 export const query = graphql`
   query MyQuery {
-    allMarkdownRemark {
+    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(project_categories)/" }}) {
       edges {
         node {
           id
