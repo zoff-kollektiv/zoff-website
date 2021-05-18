@@ -25,6 +25,12 @@ h2{
   padding: 1rem;
 }
 
+@media screen and (max-width: 700px) {
+  .image-container {
+    width: 80vw;
+  }
+}
+
 .image-container img {
   width: 100%;
 }
@@ -46,7 +52,7 @@ h2{
 .about-link {
   text-decoration: none;
   font-weight: bold;
-  font-size: 7rem;
+  font-size: 10vw;
   position: fixed;
   bottom: 4rem;
   right: 3rem;

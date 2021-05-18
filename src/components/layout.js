@@ -7,6 +7,7 @@
 
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
+import { Helmet } from "react-helmet"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -21,7 +22,12 @@ const Layout = ({ children }) => {
 
   return (
     <>
-        <main>{children}</main>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </Helmet>
+
+      <main>{children}</main>
     </>
   )
 }
