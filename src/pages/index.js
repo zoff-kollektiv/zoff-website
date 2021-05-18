@@ -55,10 +55,17 @@ const IndexPage = ({ data }) => {
     const selectionIndexArray = Array(maxImageNo).fill(selectionSchema).flat()
 
     // Traverse projects array following selectionSchema and startingPoint
-    // and fill array of images / projects remaining
+    // and fill array of images / projects remaining with random image from category
     selectionIndexArray.forEach(index => {
 
-      remProjects.push(projects[index].pop())
+      let randomIndex = getRndInteger(0, projects[index].length)
+      let newItem = projects[index][randomIndex]
+      remProjects.push(newItem)
+
+      // Remove item from Array
+      projects[index] = projects[index]
+        .slice(0, randomIndex)
+        .concat(projects[index].slice(randomIndex + 1, projects[index].length))
     })
 
     remProjects = remProjects.reverse().filter(Boolean)
