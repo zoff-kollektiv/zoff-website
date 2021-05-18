@@ -10,8 +10,15 @@ const About = ({ data }) => {
   return (
     <Layout>
       <Seo title="About" />
-      <Link to="/">{'<'}</Link>
-      <div dangerouslySetInnerHTML={{ __html: content }}></div>
+      <div className="about-page">
+        <Link className="back-link" to="/">{'<'}</Link>
+        <div className="locale-links">
+          <Link to="#de">de</Link><br />
+          <Link to="#en">en</Link><br />
+          <Link to="#fr">fr</Link><br />
+        </div>
+        <div className="content" dangerouslySetInnerHTML={{ __html: content }}></div>
+      </div>
     </Layout>
   )
 }
