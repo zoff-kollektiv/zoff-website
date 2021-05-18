@@ -6,17 +6,31 @@ on:
       - github_actions
 
 jobs:
-  audit:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - name: Audit npm pkts
-        run: yarn audit
+  # audit:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v1
+  #     - name: Audit npm pkts
+  #       run: yarn audit
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: enriikke/gatsby-gh-pages-action@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
         with:
-          access-token: ${{ secrets.ACCESS_TOKEN }}
-          deploy-branch: deploy
+          node-version: '12.x'
+      - name: Install dependencies
+        run: yarn install
+      - name: Build
+        run: yarn build
+      - name: Deploy
+        run: yarn deploy
+  # build:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v1
+  #     - uses: enriikke/gatsby-gh-pages-action@v2
+  #       with:
+  #         access-token: ${{ secrets.ACCESS_TOKEN }}
+  #         deploy-branch: deploy
