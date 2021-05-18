@@ -20,11 +20,18 @@ h2{
 .image-container {
   position: relative;
   color: white;
+  width: 40vw;
+  float: left;
+  padding: 1rem;
+}
+
+.image-container img {
+  width: 100%;
 }
 
 .image-cross-overlay {
   color: white;
-  font-size: 30rem;
+  font-size: 20rem;
   position: absolute;
   top: 50%;
   left: 50%;
