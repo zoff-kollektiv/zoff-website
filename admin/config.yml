@@ -1,0 +1,45 @@
+local_backend:
+  url: http://localhost:8081/api/v1
+
+backend:
+  name: proxy
+  proxy_url: http://localhost:8081/api/v1
+  branch: master # optional, defaults to master
+
+  # name: gitlab
+  # repo: namespace/reponame.gitlab.io
+  # auth_type: implicit
+  # app_id:
+  # commit_messages:
+  #   create: 'Create {{collection}} “{{slug}}”'
+  #   update: 'Update {{collection}} “{{slug}}”'
+  #   delete: 'Delete {{collection}} “{{slug}}”'
+  #   uploadMedia: '[skip ci] Upload “{{path}}”'
+  #   deleteMedia: '[skip ci] Delete “{{path}}”'
+
+media_folder: static/images
+public_folder: /images
+
+collections:
+  - name: pages
+    label: Pages
+    editor:
+      preview: false
+    files:
+      - file: "src/pages/about.md"
+        name: about
+        label: About
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: project_categories
+    label: Project categories
+    folder: "src/project_categories"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Order", name: "order", widget: "number", value_type: "int", min: 1, step: 1}
+      - {label: "Projects", name: "projects", widget: "list", fields: [{label: "Caption", name: "caption", widget: "string"}, {label: "Project URL", name: "project_url", widget: "string", required: false}, {label: 'Image', name: 'image', widget: 'image'}] }
