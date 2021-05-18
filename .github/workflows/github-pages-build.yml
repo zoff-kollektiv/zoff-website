@@ -3,15 +3,9 @@ name: Gatsby Publish Zoff Website
 on:
   push:
     branches:
-      - github_actions
+      - main
 
 jobs:
-  # audit:
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v1
-  #     - name: Audit npm pkts
-  #       run: yarn audit
   build:
     runs-on: ubuntu-latest
     steps:
@@ -20,18 +14,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '14.x'
-
-      # - name: Caching Gatsby
-      #   id: gatsby-cache-build
-      #   uses: actions/cache@v2
-      #   with:
-      #     path: |
-      #       public
-      #       .cache
-      #       node_modules
-      #     key: ${{ runner.os }}-gatsby-build-${{ github.run_id }}
-      #     restore-keys: |
-      #       ${{ runner.os }}-gatsby-build-
       - name: Cache dependencies
         uses: actions/cache@v2
         with:
@@ -51,16 +33,12 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        # if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
-      # - name: Deploy
-      #   run: yarn deploy
-  # build:
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v1
-  #     - uses: enriikke/gatsby-gh-pages-action@v2
-  #       with:
-  #         access-token: ${{ secrets.ACCESS_TOKEN }}
-  #         deploy-branch: deploy
+  audit:
+    continue-on-error: true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Audit npm pkts
+        run: yarn audit
