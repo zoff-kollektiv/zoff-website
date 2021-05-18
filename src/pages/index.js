@@ -1,7 +1,7 @@
 import * as React from "react"
 import { useState, useEffect } from "react"
 import { Link, graphql } from "gatsby"
-import Image from '../components/image';
+import Image from "../components/image";
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
