@@ -107,7 +107,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <Seo title="Projects" />
-      { <Categories /> }
+      { <Projects /> }
       <p>
         <Link className="about-link" to="/about/">
           zoff
