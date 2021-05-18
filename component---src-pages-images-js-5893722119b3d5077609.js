@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[595],{6642:function(e,t,a){"use strict";a.r(t);var r=a(7294),n=(a(5444),a(7198),a(6927));t.default=function(e){var t=e.data,a=function(){var e=[];return t.allMarkdownRemark.edges.forEach((function(t){t.node.frontmatter.projects.forEach((function(t){e.push(r.createElement(n.Z,{name:t.image}))}))})),e};return r.createElement(a,null)}}}]);
+//# sourceMappingURL=component---src-pages-images-js-5893722119b3d5077609.js.map

@@ -1,2 +1,0 @@
-(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[595],{6642:function(e,t,a){"use strict";a.r(t);var r=a(7294);a(5444),a(7198);t.default=function(e){var t=e.data,a=function(){var e=[];return t.allMarkdownRemark.edges.forEach((function(t){t.node.frontmatter.projects.forEach((function(t){e.push(r.createElement("img",{src:t.image}))}))})),e};return r.createElement(a,null)}}}]);
-//# sourceMappingURL=component---src-pages-images-js-a567cea78b6778619d8e.js.map
