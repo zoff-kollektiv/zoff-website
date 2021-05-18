@@ -11,18 +11,13 @@ module.exports = {
     `gatsby-plugin-netlify-cms`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `src`,
         path: `${__dirname}/src/`,
       },
-    },
-    {
-      resolve: `gatsby-plugin-offline`,
-      options: {
-        globPatterns: ['**/*.{js,jpg,html,css}'],
-      }
     }
   ],
 }
