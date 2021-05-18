@@ -82,8 +82,7 @@ const IndexPage = ({ data }) => {
       <Seo title="Projects" />
       <Projects />
       <p>
-        {" "}
-        <Link to="/about/">ZOFF</Link> <br />{" "}
+        <Link className='about-link' to="/about/">zoff</Link> <br />
       </p>
     </Layout>
   )
