@@ -86,12 +86,24 @@ const IndexPage = ({ data }) => {
   }
 
   const Projects = () => {
-    return displayedProjects.map(project => (
-      <div className="image-container" onClick={displayNextProject}>
-        <img src={project.image} />
-        <div className="image-cross-overlay">＋</div>
-      </div>
-    ))
+    return displayedProjects
+      .map((project, index) => {
+        const isFirst = index == displayedProjects.length - 1
+
+        return (
+          <div
+            className="image-container"
+            onClick={isFirst ? displayNextProject : undefined}
+          >
+            <figure>
+              <img src={project.image} />
+              {isFirst ? <div className="image-cross-overlay">＋</div> : ""}
+              <figcaption><p>{project.caption}</p></figcaption>
+            </figure>
+          </div>
+        )
+      })
+      .reverse()
   }
 
   return (
