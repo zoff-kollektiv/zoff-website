@@ -51,23 +51,27 @@ const IndexPage = ({ data }) => {
       ...Object.values(projects).map(val => val.length)
     )
 
-    const selectionArray = Array(maxImageNo).fill(selectionSchema).flat()
+    // Gonna be [b, c, a, b, c, a, ...]
+    const selectionIndexArray = Array(maxImageNo).fill(selectionSchema).flat()
 
     // Traverse projects array following selectionSchema and startingPoint
-    // and fill array of images / projects to be displayed
-    selectionArray.forEach(index => {
+    // and fill array of images / projects remaining
+    selectionIndexArray.forEach(index => {
+
       remProjects.push(projects[index].pop())
     })
 
     remProjects = remProjects.reverse().filter(Boolean)
 
+    // Display first image initially as soon as something is there (async!)
     if (remProjects.length > 0) setDisplayedProjects([remProjects.pop()])
+
     setRemainingProjects(remProjects)
   }
 
   const displayNextProject = () => {
-    const newKid = remainingProjects.pop()
-    setDisplayedProjects(displayedProjects => [...displayedProjects, newKid])
+    const newProject = remainingProjects.pop()
+    setDisplayedProjects(displayedProjects => [...displayedProjects, newProject])
   }
 
   const Projects = () => {
