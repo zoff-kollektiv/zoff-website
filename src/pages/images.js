@@ -2,7 +2,6 @@ import * as React from "react"
 import { useState, useEffect } from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
-import Image from '../components/image';
 
 const Images = ({ data }) => {
 
@@ -10,7 +9,7 @@ const Images = ({ data }) => {
     let images = []
     data.allMarkdownRemark.edges.forEach(category => {
       category.node.frontmatter.projects.forEach(project => {
-        images.push(<Image name={project.image} />)
+        images.push(<img src={project.image} />)
       })
     })
     return images
