@@ -15,7 +15,7 @@ module.exports = {
       resolve: `gatsby-plugin-offline`,
       options: {
         workboxConfig: {
-            globPatterns: ['**/*.{js,jpg,png,html,css,woff2,woff}'],
+          globPatterns: ['**/*.{js,html,css,woff2,woff}'],
         },
       }
     },
