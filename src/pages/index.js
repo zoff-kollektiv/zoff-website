@@ -95,11 +95,9 @@ const IndexPage = ({ data }) => {
             className="image-container"
             onClick={isFirst ? displayNextProject : undefined}
           >
-            <figure>
-              <img src={project.image} />
-              {isFirst ? <div className="image-cross-overlay">＋</div> : ""}
-              <figcaption><p>{project.caption}</p></figcaption>
-            </figure>
+            <img className={isFirst ? "first-image" : ""} src={project.image} />
+            {isFirst ? <div className="image-cross-overlay">＋</div> : ""}
+            <figcaption>{project.caption}</figcaption>
           </div>
         )
       })
@@ -113,7 +111,7 @@ const IndexPage = ({ data }) => {
       <p>
         <Link className="about-link" to="/about/">
           zoff
-        </Link>{" "}
+        </Link>
         <br />
       </p>
     </Layout>
