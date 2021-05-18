@@ -73,7 +73,10 @@ const IndexPage = ({ data }) => {
 
   const Projects = () => {
     return displayedProjects.map(project => (
-      <img src={project.image} onClick={displayNextProject} />
+      <div className="image-container" onClick={displayNextProject}>
+         <img src={ project.image } />
+         <div className="image-cross-overlay">＋</div>
+      </div>
     ))
   }
 

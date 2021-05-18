@@ -17,6 +17,20 @@ h2{
   font-family: "Zoff2" !important;
 }
 
+.image-container {
+  position: relative;
+  color: white;
+}
+
+.image-cross-overlay {
+  color: white;
+  font-size: 30rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .about-link {
   text-decoration: none;
   font-weight: bold;

@@ -16,8 +16,7 @@ aufgang a\
 [kontakt@zoff-kollektiv.net](<mailto: kontakt@zoff-kollektiv.net>)
 
 **ohne den wäre zoff nicht zoff**\
-gustav pursche, tilman miraß
-luise menz, sandra méndez
+gustav pursche, tilman miraß, luise menz, sandra méndez
 
 **mitstreiterinnen**\
 sylvain mazas, büro achso, systra, marc wright, jib collective, ...
@@ -48,8 +47,7 @@ aufgang a\
 [kontakt@zoff-kollektiv.net](<mailto: kontakt@zoff-kollektiv.net>)
 
 **without them, zoff would not be zoff**\
-gustav pursche, tilman miraß
-luise menz, sandra méndez
+gustav pursche, tilman miraß, luise menz, sandra méndez
 
 **fellow ...**\
 sylvain mazas, büro achso, systra, marc wright
@@ -74,8 +72,7 @@ aufgang A\
 [kontakt@zoff-kollektiv.net](<mailto: kontakt@zoff-kollektiv.net>)
 
 **sans eux, zoff ne serait pas zoff**\
-gustav pursche, tilman miraß
-luise menz, sandra méndez
+gustav pursche, tilman miraß, luise menz, sandra méndez
 
 **fellow ...**\
 sylvain mazas, büro achso, systra, marc wright
