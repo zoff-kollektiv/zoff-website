@@ -17,6 +17,32 @@ h2{
   font-family: "Zoff2" !important;
 }
 
+.image-container {
+  position: relative;
+  color: white;
+  width: 40vw;
+  float: left;
+  padding: 1rem;
+}
+
+.image-container img {
+  width: 100%;
+}
+
+.image-container .first-image:hover {
+  opacity: 0.8;
+}
+
+.image-cross-overlay {
+  pointer-events: none;
+  color: white;
+  font-size: 20vw;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .about-link {
   text-decoration: none;
   font-weight: bold;
@@ -24,4 +50,38 @@ h2{
   position: fixed;
   bottom: 4rem;
   right: 3rem;
+}
+
+.about-page * {
+  font-size: 2.5vw;
+}
+
+.about-page strong {
+  text-decoration: underline;
+}
+
+.about-page .content {
+  padding-left: 15vw;
+  padding-right: 15vw;
+  padding-top: 8vw;
+  padding-bottom: 8vw;
+}
+
+.about-page .back-link {
+  position: fixed;
+  top: 1vw;
+  left: 5vw;
+  text-decoration: none;
+  font-size: 7vw;
+}
+
+.about-page .locale-links {
+  position: fixed;
+  top: 10vw;
+  left: 5vw;
+}
+
+.about-page .locale-links a {
+  font-size: 3.5vw;
+  text-decoration: none;
 }
