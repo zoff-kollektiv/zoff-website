@@ -114,24 +114,26 @@ const IndexPage = ({ data }) => {
             onKeyPress={undefined}
             style={{ width: `${project.scale}%` }}
           >
-            {/* Image */}
-            <Image
-              className={isFirst && notLast ? "first-image" : ""}
-              name={project.image}
-            />
+            <div className="image-inner-container">
+              {/* Image */}
+              <Image
+                className={isFirst && notLast ? "first-image" : ""}
+                name={project.image}
+              />
 
-            {/* + Sign */}
-            {isFirst && notLast ? (
-              <div
-                className="image-cross-overlay"
-                style={{ fontSize: `${project.scale / 2}vw` }}
-              >
-                ＋
-              </div>
-            ) : (
-              ""
-            )}
-            <figcaption>{project.caption}</figcaption>
+              {/* + Sign */}
+              {isFirst && notLast ? (
+                <div
+                  className="image-cross-overlay"
+                  style={{ fontSize: `${project.scale / 2}vw` }}
+                >
+                  ＋
+                </div>
+              ) : (
+                ""
+              )}
+              <figcaption>{project.caption}</figcaption>
+            </div>
           </div>
         )
       })

@@ -8,6 +8,10 @@
   src: url("./zoff2.woff");
 }
 
+body {
+  margin: 0;
+}
+
 * {
   font-family: "Zoff" !important;
   color: black;
@@ -19,9 +23,10 @@ h2{
 
 .image-container {
   position: relative;
-  color: white;
-  /* width: 40vw; */
   float: left;
+}
+
+.image-container .image-inner-container {
   padding: 1rem;
 }
 
