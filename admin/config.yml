@@ -29,5 +29,5 @@ collections:
       preview: false
     fields:
       - {label: "Name", name: "title", widget: "string"}
-      - {label: "Order", name: "order", widget: "number", value_type: "int", min: 1, step: 1}
-      - {label: "Projects", name: "projects", widget: "list", fields: [{label: "Caption", name: "caption", widget: "string"}, {label: "Project URL", name: "project_url", widget: "string", required: false}, {label: 'Image', name: 'image', widget: 'image'}] }
+      - {label: "Order", name: "order", widget: "number", value_type: "int", min: 1, step: 1, hint: "Place within the order of project categories"}
+      - {label: "Projects", name: "projects", widget: "list", fields: [{label: "Caption", name: "caption", widget: "string"}, {label: "Project URL", name: "project_url", widget: "string", required: false}, {label: 'Image width [%]', name: 'scale', widget: 'number', value_type: 'int', min: 1, max: 100, step: 1}, {label: "Image", name: "image", widget: "image"}] }
