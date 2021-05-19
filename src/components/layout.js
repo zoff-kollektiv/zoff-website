@@ -6,20 +6,9 @@
  */
 
 import * as React from "react"
-import { useStaticQuery, graphql } from "gatsby"
 import { Helmet } from "react-helmet"
 
 const Layout = ({ children }) => {
-  const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-    }
-  `)
-
   return (
     <>
       <Helmet>
