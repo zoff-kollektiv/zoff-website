@@ -86,13 +86,13 @@ h2{
   top: 1vw;
   left: 5vw;
   text-decoration: none;
-  font-size: 5vw;
+  font-size:calc(20px + 4vw);
   font-weight: bold;
 }
 
 .about-page .locale-links {
   position: fixed;
-  top: 8vw;
+  top: 10vw;
   left: 10vw;
 }
 
