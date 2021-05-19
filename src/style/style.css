@@ -46,7 +46,6 @@ h2{
 .image-cross-overlay {
   pointer-events: none;
   color: white;
-  font-size: 20vw;
   position: absolute;
   top: 45%;
   left: 50%;

@@ -101,17 +101,22 @@ const IndexPage = ({ data }) => {
         const notLast = remainingProjects.length != 0;
 
         return (
+          // Image container
           <div
             key={project.title}
             className="image-container"
             onClick={isFirst ? displayNextProject : undefined}
             style={{ width: `${project.scale}%` }}
           >
+
+            {/* Image */}
             <Image
               className={isFirst && notLast ? "first-image" : ""}
               name={project.image}
             />
-            {isFirst && notLast ? <div className="image-cross-overlay">＋</div> : ""}
+
+            {/* + Sign */}
+            {isFirst && notLast ? <div className="image-cross-overlay" style={{fontSize: `${project.scale/2}vw`}}>＋</div> : ""}
             <figcaption>{project.caption}</figcaption>
           </div>
         )
