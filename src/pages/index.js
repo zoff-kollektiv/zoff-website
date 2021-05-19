@@ -97,18 +97,20 @@ const IndexPage = ({ data }) => {
   const Projects = () => {
     return displayedProjects
       .map((project, index) => {
-        const isFirst = index == displayedProjects.length - 1
+        const isFirst = index == displayedProjects.length - 1;
+        const notLast = remainingProjects.length != 0;
 
         return (
           <div
+            key={project.title}
             className="image-container"
             onClick={isFirst ? displayNextProject : undefined}
           >
             <Image
-              className={isFirst ? "first-image" : ""}
+              className={isFirst && notLast ? "first-image" : ""}
               name={project.image}
             />
-            {isFirst ? <div className="image-cross-overlay">＋</div> : ""}
+            {isFirst && notLast ? <div className="image-cross-overlay">＋</div> : ""}
             <figcaption>{project.caption}</figcaption>
           </div>
         )
