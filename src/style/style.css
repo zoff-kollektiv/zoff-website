@@ -22,6 +22,10 @@ h2{
   font-family: "Zoff2" !important;
 }
 
+figcaption {
+  margin-top: 0.7vw;
+}
+
 .project-container {
   position: relative;
   float: left;
@@ -67,7 +71,6 @@ h2{
   position: fixed;
   bottom: 0;
   right: 30px;
-  text-shadow: -2px 2px 0 white, 2px 2px 0 white, 2px -2px 0 white, -2px -2px 0 white;
 }
 
 .about-page strong {
@@ -102,26 +105,26 @@ h2{
 }
 
 @media (min-width: 0px) and (max-width: 576px) {
-  figcaption { font-size: 12px }
+  figcaption { font-size: 10px }
   .about-page * { font-size: 20px }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
-  figcaption { font-size: 15px }
+  figcaption { font-size: 12px }
   .about-page * { font-size: 24px }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  figcaption { font-size: 20px }
+  figcaption { font-size: 12px }
   .about-page * { font-size: 30px }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
-  figcaption { font-size: 24px }
+  figcaption { font-size: 14px }
   .about-page * { font-size: 35px }
 }
 
 @media (min-width: 1200px) {
-  figcaption { font-size: 28px }
+  figcaption { font-size: 14px }
   .about-page * { font-size: 40px }
 }
