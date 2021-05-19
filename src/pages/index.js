@@ -105,6 +105,7 @@ const IndexPage = ({ data }) => {
             key={project.title}
             className="image-container"
             onClick={isFirst ? displayNextProject : undefined}
+            style={{ width: `${project.scale}%` }}
           >
             <Image
               className={isFirst && notLast ? "first-image" : ""}
@@ -145,7 +146,9 @@ export const query = graphql`
               caption
               image
               project_url
+              scale
             }
+            
             title
             order
           }

@@ -20,7 +20,7 @@ h2{
 .image-container {
   position: relative;
   color: white;
-  width: 40vw;
+  /* width: 40vw; */
   float: left;
   padding: 1rem;
 }
