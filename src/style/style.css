@@ -37,10 +37,11 @@ h2{
 
 .image-container .first-image {
   cursor: pointer;
+  filter: brightness(80%);
 }
 
 .image-container .first-image:hover {
-  opacity: 0.8;
+  filter: brightness(60%);
 }
 
 .image-cross-overlay {
@@ -69,8 +70,8 @@ h2{
 .about-page .content {
   padding-left: 20vw;
   padding-right: 15vw;
-  padding-top: 5vw;
-  padding-bottom: 5vw;
+  padding-top: 7vw;
+  padding-bottom: 7vw;
 }
 
 .about-page .back-link {
@@ -78,13 +79,13 @@ h2{
   top: 1vw;
   left: 5vw;
   text-decoration: none;
-  font-size: 7vw;
+  font-size: 5vw;
   font-weight: bold;
 }
 
 .about-page .locale-links {
   position: fixed;
-  top: 10vw;
+  top: 8vw;
   left: 10vw;
 }
 
