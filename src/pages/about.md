@@ -56,7 +56,7 @@ sylvain mazas, büro achso, systra, marc wright
 
 <a id="fr"></a>
 
-zoff zoff est un collectif spécialisé dans la communication visuelle.
+zoff est un collectif spécialisé dans la communication visuelle.
 
 nous travaillons à l'intersection du design, de l'art et de la politique. ensemble, nous conceptualisons, concevons et développons des sites web, des campagnes, des publications et des expositions.
 

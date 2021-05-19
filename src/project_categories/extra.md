@@ -2,7 +2,7 @@
 title: Extra
 order: 3
 projects:
-  - caption: Bug
+  - caption: Bug...
     project_url: ""
     image: extra-bug.jpg
   - caption: figma
