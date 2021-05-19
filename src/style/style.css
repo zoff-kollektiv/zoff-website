@@ -82,13 +82,16 @@ figcaption {
 .about-page .content {
   padding-left: 20vw;
   padding-right: 15vw;
-  padding-top: 7vw;
   padding-bottom: 7vw;
+}
+
+.about-page .content p {
+  margin-top: 0;
 }
 
 .about-page .back-link {
   position: fixed;
-  top: 1vw;
+  top: 0;
   left: 5vw;
   text-decoration: none;
   font-size:calc(20px + 4vw);
@@ -97,8 +100,8 @@ figcaption {
 
 .about-page .locale-links {
   position: fixed;
-  top: 10vw;
-  left: 10vw;
+  top: 0;
+  left: 12vw;
 }
 
 .about-page .locale-links .active {
@@ -110,26 +113,36 @@ figcaption {
 }
 
 @media (min-width: 0px) and (max-width: 576px) {
+  .about-page .content { padding-top: 75px }
+  .about-page .locale-links { padding-top: 60px }
   figcaption { font-size: 10px }
   .about-page * { font-size: 20px }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
+  .about-page .content { padding-top: 95px }
+  .about-page .locale-links { padding-top: 80px }
   figcaption { font-size: 12px }
   .about-page * { font-size: 24px }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+  .about-page .content { padding-top: 110px }
+  .about-page .locale-links { padding-top: 100px }
   figcaption { font-size: 12px }
   .about-page * { font-size: 30px }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
+  .about-page .content { padding-top: 110px }
+  .about-page .locale-links { padding-top: 100px }
   figcaption { font-size: 14px }
   .about-page * { font-size: 35px }
 }
 
 @media (min-width: 1200px) {
+  .about-page .content { padding-top: 110px }
+  .about-page .locale-links { padding-top: 100px }
   figcaption { font-size: 14px }
   .about-page * { font-size: 40px }
 }
