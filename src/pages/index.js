@@ -54,7 +54,7 @@ const IndexPage = ({ data }) => {
       const startingPoint = getRndInteger(0, 4)
       const firstElementsToBack = selectionIndexArray.slice(0, startingPoint)
       selectionIndexArray = selectionIndexArray.slice(
-        startingPoint + 1,
+        startingPoint,
         selectionIndexArray.length
       )
       selectionIndexArray.push(...firstElementsToBack);
