@@ -107,31 +107,29 @@ const IndexPage = ({ data }) => {
           // Image container
           <div
             key={`project-${index}`}
-            className="image-container"
+            className="project-container"
             role="button"
             tabIndex="0"
             onClick={isFirst ? displayNextProject : undefined}
             onKeyPress={undefined}
             style={{ width: `${project.scale}%` }}
           >
-            <div className="image-inner-container">
-              {/* Image */}
-              <Image
-                className={isFirst && notLast ? "first-image" : ""}
-                name={project.image}
-              />
+            <div className="project-inner-container">
+              <div className="image-container">
+                <Image
+                  className={isFirst && notLast ? "first-image" : ""}
+                  name={project.image}
+                  />
 
-              {/* + Sign */}
-              {isFirst && notLast ? (
-                <div
-                  className="image-cross-overlay"
-                  style={{ fontSize: `${project.scale / 2}vw` }}
-                >
-                  ＋
-                </div>
-              ) : (
-                ""
-              )}
+                {isFirst && notLast ? (
+                  <div className="image-cross-overlay" style={{ fontSize: `${project.scale / 2}vw` }}>
+                    ＋
+                  </div>
+                ) : (
+                  ""
+                )}
+              </div>
+
               <figcaption>{project.caption}</figcaption>
             </div>
           </div>
