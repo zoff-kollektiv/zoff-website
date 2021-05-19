@@ -10,6 +10,7 @@
 
 body {
   margin: 0;
+  margin-top: -15px;
 }
 
 * {
@@ -27,7 +28,7 @@ h2{
 }
 
 .image-container .image-inner-container {
-  padding: 2%;
+  padding: 1vh;
 }
 
 .image-container img {
@@ -93,25 +94,25 @@ h2{
 
 @media (min-width: 0px) and (max-width: 576px) {
   figcaption { font-size: 15px }
-  .about-page * { font-size: 24px }
+  .about-page * { font-size: 20px }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
   figcaption { font-size: 18px }
-  .about-page * { font-size: 35px }
+  .about-page * { font-size: 24px }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   figcaption { font-size: 25px }
-  .about-page * { font-size: 35px }
+  .about-page * { font-size: 30px }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
   figcaption { font-size: 28px }
-  .about-page * { font-size: 40px }
+  .about-page * { font-size: 35px }
 }
 
 @media (min-width: 1200px) {
   figcaption { font-size: 28px }
-  .about-page * { font-size: 60px }
+  .about-page * { font-size: 40px }
 }
