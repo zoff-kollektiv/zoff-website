@@ -8,6 +8,11 @@
   src: url("./zoff2.woff");
 }
 
+body {
+  margin: 0;
+  margin-top: -15px;
+}
+
 * {
   font-family: "Zoff" !important;
   color: black;
@@ -19,16 +24,11 @@ h2{
 
 .image-container {
   position: relative;
-  color: white;
-  width: 40vw;
   float: left;
-  padding: 1rem;
 }
 
-@media screen and (max-width: 700px) {
-  .image-container {
-    width: 80vw;
-  }
+.image-container .image-inner-container {
+  padding: 1vh;
 }
 
 .image-container img {
@@ -37,16 +37,16 @@ h2{
 
 .image-container .first-image {
   cursor: pointer;
+  filter: brightness(80%);
 }
 
 .image-container .first-image:hover {
-  opacity: 0.8;
+  filter: brightness(60%);
 }
 
 .image-cross-overlay {
   pointer-events: none;
   color: white;
-  font-size: 20vw;
   position: absolute;
   top: 45%;
   left: 50%;
@@ -56,14 +56,11 @@ h2{
 .about-link {
   text-decoration: none;
   font-weight: bold;
-  font-size: 7rem;
+  font-size: 100px;
   position: fixed;
-  bottom: 4rem;
-  right: 3rem;
-}
-
-.about-page * {
-  font-size: 2.5vw;
+  bottom: 0;
+  right: 30px;
+  text-shadow: -1px 1px 0 white, 1px 1px 0 white, 1px -1px 0 white, -1px -1px 0 white;
 }
 
 .about-page strong {
@@ -71,10 +68,10 @@ h2{
 }
 
 .about-page .content {
-  padding-left: 15vw;
+  padding-left: 20vw;
   padding-right: 15vw;
-  padding-top: 8vw;
-  padding-bottom: 8vw;
+  padding-top: 7vw;
+  padding-bottom: 7vw;
 }
 
 .about-page .back-link {
@@ -82,16 +79,41 @@ h2{
   top: 1vw;
   left: 5vw;
   text-decoration: none;
-  font-size: 7vw;
+  font-size: 5vw;
+  font-weight: bold;
 }
 
 .about-page .locale-links {
   position: fixed;
-  top: 10vw;
-  left: 5vw;
+  top: 8vw;
+  left: 10vw;
 }
 
 .about-page .locale-links a {
-  font-size: 3.5vw;
   text-decoration: none;
+}
+
+@media (min-width: 0px) and (max-width: 576px) {
+  figcaption { font-size: 15px }
+  .about-page * { font-size: 20px }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  figcaption { font-size: 18px }
+  .about-page * { font-size: 24px }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  figcaption { font-size: 25px }
+  .about-page * { font-size: 30px }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  figcaption { font-size: 28px }
+  .about-page * { font-size: 35px }
+}
+
+@media (min-width: 1200px) {
+  figcaption { font-size: 28px }
+  .about-page * { font-size: 40px }
 }
