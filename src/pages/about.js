@@ -1,11 +1,27 @@
 import * as React from "react"
+import { useState } from "react"
 import { Link, graphql } from "gatsby"
+import ReactMarkdown from 'react-markdown';
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 
 const About = ({ data }) => {
-  const content = data.allMarkdownRemark.edges[0].node.html;
+  const [language, setLanguage] = useState('de');
+  const content = data.allMarkdownRemark.edges[0].node.frontmatter.languages;
+
+  const localizedContent = () => (
+    content.find(el => el.language == language).body
+  )
+
+  const LocaleLinks = () => (
+    content.map((l) => l.language).map((lang) => (
+      <>
+        <Link to={`#${lang}`} onClick={() => setLanguage(lang)} className={language == lang ? 'active' : ''}>{lang}</Link>
+        <br/>
+      </>
+    ))
+  )
 
   return (
     <Layout>
@@ -13,11 +29,9 @@ const About = ({ data }) => {
       <div className="about-page">
         <Link className="back-link" to="/">{'<'}</Link>
         <div className="locale-links">
-          <Link to="#de">de</Link><br />
-          <Link to="#en">en</Link><br />
-          <Link to="#fr">fr</Link><br />
+          <LocaleLinks />
         </div>
-        <div className="content" dangerouslySetInnerHTML={{ __html: content }}></div>
+        <ReactMarkdown className="content">{localizedContent()}</ReactMarkdown>
       </div>
     </Layout>
   )
@@ -25,10 +39,16 @@ const About = ({ data }) => {
 
 export const query = graphql`
   query AboutQuery {
-    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(about.md)/" }}) {
+    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(about.md)/"}}) {
       edges {
         node {
           html
+          frontmatter {
+            languages {
+              language
+              body
+            }
+          }
         }
       }
     }

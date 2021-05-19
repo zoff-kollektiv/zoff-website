@@ -101,6 +101,10 @@ figcaption {
   left: 10vw;
 }
 
+.about-page .locale-links .active {
+  text-decoration: underline;
+}
+
 .about-page .locale-links a {
   text-decoration: none;
 }

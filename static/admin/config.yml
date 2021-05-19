@@ -18,7 +18,7 @@ collections:
         name: about
         label: About
         fields:
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Languages", name: "languages", widget: "list", fields: [{label: "language", name: "language", widget: "string"}, {label: "Body", name: "body", widget: "markdown"}] }
 
   - name: project_categories
     label: Project categories
