@@ -28,7 +28,8 @@ h2{
 }
 
 .project-container .project-inner-container {
-  padding: 1vh;
+  padding-left: 2vh;
+  padding-top: 2vh;
 }
 
 .project-container img {
@@ -54,7 +55,7 @@ h2{
   pointer-events: none;
   color: white;
   position: absolute;
-  top: 50%;
+  top: 45%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
