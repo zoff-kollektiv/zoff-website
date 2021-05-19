@@ -28,8 +28,8 @@ h2{
 }
 
 .project-container .project-inner-container {
-  padding-left: 2vh;
-  padding-top: 2vh;
+  padding-left: 1.5vh;
+  padding-top: 1.5vh;
 }
 
 .project-container img {
@@ -101,12 +101,12 @@ h2{
 }
 
 @media (min-width: 0px) and (max-width: 576px) {
-  figcaption { font-size: 15px }
+  figcaption { font-size: 12px }
   .about-page * { font-size: 20px }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
-  figcaption { font-size: 18px }
+  figcaption { font-size: 15px }
   .about-page * { font-size: 24px }
 }
 
