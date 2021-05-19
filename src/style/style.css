@@ -62,8 +62,9 @@ h2{
   font-weight: bold;
   font-size: 7rem;
   position: fixed;
-  bottom: 4rem;
+  bottom: 1rem;
   right: 3rem;
+  text-shadow: -1px 1px 0 white, 1px 1px 0 white, 1px -1px 0 white, -1px -1px 0 white;
 }
 
 .about-page * {
