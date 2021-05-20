@@ -14,8 +14,4 @@ projects:
     image: context-lause.jpg
     scale: 25
     project_url: https://lause10.de/
-  - caption: Sweeeeet
-    project_url: https://github.com/coderat-collective/zoff-website/actions
-    scale: 100
-    image: wavecookies.jpeg
 ---
