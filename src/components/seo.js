@@ -11,21 +11,41 @@ import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
 function Seo({ description, lang, meta, title }) {
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-            description
-            author
-            siteUrl
+  // const { site } = useStaticQuery(
+  //   graphql`
+  //     query {
+  //       site {
+  //         siteMetadata {
+  //           title
+  //           description
+  //           author
+  //           siteUrl
+  //         }
+  //       }
+  //     }
+  //   `
+  // )
+
+  const site = graphql`
+    query MyQuery {
+      allMarkdownRemark(
+        filter: { fileAbsolutePath: { regex: "/metadata.md/" } }
+      ) {
+        edges {
+          node {
+            frontmatter {
+              author
+              description
+              siteurl
+              title
+            }
           }
         }
       }
-    `
-  )
+    }
+  `
 
+  debugger
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
   const siteUrl = `${site.siteMetadata?.siteUrl}/share.jpg`
