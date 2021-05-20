@@ -2,7 +2,7 @@
 title: Process
 order: 3
 projects:
-  - caption: About United im Prozess
+  - caption: About United
     project_url: ""
     scale: 40
     image: process-aboutunited.jpg
