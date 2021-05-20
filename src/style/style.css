@@ -66,12 +66,13 @@ figcaption {
 }
 
 .about-link {
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 100px;
   position: fixed;
   bottom: 0;
   right: 30px;
+}
+
+.about-link img {
+  width: 250px;
 }
 
 .about-page strong {

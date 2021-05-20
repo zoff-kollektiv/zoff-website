@@ -147,7 +147,7 @@ const IndexPage = ({ data }) => {
       {<Projects />}
       <p>
         <Link className="about-link" to="/about/">
-          zoff
+          <img src="logo_default.svg" />
         </Link>
         <br />
       </p>
