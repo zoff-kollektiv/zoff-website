@@ -16,9 +16,9 @@ module.exports = {
       resolve: `gatsby-plugin-offline`,
       options: {
         workboxConfig: {
-          globPatterns: ['**/*.{js,html,css,woff2,woff}'],
+          globPatterns: ["**/*.{js,html,css,woff2,woff}"],
         },
-      }
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -26,6 +26,6 @@ module.exports = {
         name: `src`,
         path: `${__dirname}/src/`,
       },
-    }
+    },
   ],
 }
