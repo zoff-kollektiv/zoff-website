@@ -76,7 +76,10 @@ const IndexPage = ({ data }) => {
         })
 
         // Reverse array of remaining projects and filter out undefined
-        remProjects = remProjects.reverse().filter(Boolean)
+        remProjects = remProjects
+          .filter(Boolean) // Remove undefined / null / etc.
+          .sort((a, b) => (a["last_project"] > b["last_project"] ? 1 : -1)) // Put last_project last in line
+          .reverse() // Make first projects to be displayed last in array (because of how pop() works)
 
         // Display first image initially as soon as something is there (async!)
         if (remProjects.length > 0) setDisplayedProjects([remProjects.pop()])
@@ -166,6 +169,7 @@ export const query = graphql`
               image
               project_url
               scale
+              last_project
             }
 
             title
