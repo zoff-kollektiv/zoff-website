@@ -17,4 +17,12 @@ projects:
     scale: 40
     image: design-bruderland.jpg
     last_project: true
+  - caption: GIF GIF GIF
+    scale: 28
+    image: giphy.gif
+    last_project: false
+  - caption: Remote image
+    image: https://coderat.cc/assets/img/innoz_demo.png
+    scale: 37
+    last_project: false
 ---
