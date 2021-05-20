@@ -122,10 +122,13 @@ const IndexPage = ({ data }) => {
                 <Image
                   className={isFirst && notLast ? "first-image" : ""}
                   name={project.image}
-                  />
+                />
 
                 {isFirst && notLast ? (
-                  <div className="image-cross-overlay" style={{ fontSize: `${project.scale / 2}vw` }}>
+                  <div
+                    className="image-cross-overlay"
+                    style={{ fontSize: `${project.scale / 2}vw` }}
+                  >
                     ＋
                   </div>
                 ) : (
