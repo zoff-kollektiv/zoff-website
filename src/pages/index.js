@@ -147,7 +147,10 @@ const IndexPage = ({ data }) => {
       {<Projects />}
       <p>
         <Link className="about-link" to="/about/">
-          <img src="logo_default.svg" />
+          <img src="logo_default.svg"
+            onMouseOver={e => (e.currentTarget.src = "logo_hover.svg")}
+            onMouseOut={e => (e.currentTarget.src = "logo_default.svg")}
+          />
         </Link>
         <br />
       </p>
