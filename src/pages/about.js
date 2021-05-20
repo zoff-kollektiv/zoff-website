@@ -11,13 +11,19 @@ const About = ({ data }) => {
   const content = data.allMarkdownRemark.edges[0].node.frontmatter.languages;
 
   const localizedContent = () => (
-    content.find(el => el.language == language).body
+    content.find(el => el.language === language).body
   )
 
   const LocaleLinks = () => (
     content.map((l) => l.language).map((lang) => (
       <>
-        <Link to={`#${lang}`} onClick={() => setLanguage(lang)} className={language == lang ? 'active' : ''}>{lang}</Link>
+        <Link
+          to={`#${lang}`}
+          onClick={() => setLanguage(lang)}
+          className={language === lang ? 'active' : ''}
+        >
+          {lang}
+        </Link>
         <br/>
       </>
     ))
