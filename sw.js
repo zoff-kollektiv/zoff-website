@@ -43,18 +43,18 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "8f278cb9e63c838dfade93e707dc6c1f"
+    "revision": "675742ffd957d3ca9c88a962a88a9400"
   },
   {
     "url": "404/index.html",
-    "revision": "4f1901304bfa371e4c9185f43dd0ff85"
+    "revision": "6127d0a170b6335db98bd14d77e5e281"
   },
   {
     "url": "532a2f07-2b491197e5445acdb528.js"
   },
   {
     "url": "about/index.html",
-    "revision": "2820f5fac9a729006a8cf3a199bb0801"
+    "revision": "6ea0b661429c9c995da7e4af4182fb89"
   },
   {
     "url": "admin/cms.js"
@@ -76,6 +76,9 @@ self.__precacheManifest = [
     "url": "app-5762d927242891032240.js"
   },
   {
+    "url": "app-f4ad4a41c112fe3c4404.js"
+  },
+  {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-504f688893251871c6ae.js"
   },
   {
@@ -85,10 +88,16 @@ self.__precacheManifest = [
     "url": "component---src-pages-about-js-2cc7ab48cf9a5c7ee75f.js"
   },
   {
+    "url": "component---src-pages-about-js-4730e7d3846f62ad98e8.js"
+  },
+  {
     "url": "component---src-pages-about-js-5c357d7d9c7a75ce4f8a.js"
   },
   {
     "url": "component---src-pages-index-js-a681a95977b9c714c3b0.js"
+  },
+  {
+    "url": "component---src-pages-index-js-c53ed9d9ced77cf41627.js"
   },
   {
     "url": "component---src-pages-index-js-faa9d62f266d7bbe1727.js"
@@ -101,11 +110,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "eaf204541e408895dd05a3db1c4f75bc"
+    "revision": "176de1bafc8a86f390ff408138e36756"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "6af5c36e5650e93ce190d59ae1dce820"
+    "revision": "583de21b0ac060aeb9af41db5ad1080e"
   },
   {
     "url": "polyfill-564fab21cd0762acc05c.js"
@@ -129,10 +138,10 @@ self.__precacheManifest = [
     "url": "webpack-runtime-40c4a87a8b07ce8b552b.js"
   },
   {
-    "url": "webpack-runtime-c00685bea80aeb12992f.js"
+    "url": "webpack-runtime-707a970f06896c4e7cc6.js"
   },
   {
-    "url": "webpack-runtime-e2a77f8484fee125ef7b.js"
+    "url": "webpack-runtime-c00685bea80aeb12992f.js"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -224,7 +233,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-5762d927242891032240.js`))) {
+  if (!resources || !(await caches.match(`/app-f4ad4a41c112fe3c4404.js`))) {
     return await fetch(event.request)
   }
 
