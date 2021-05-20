@@ -2,7 +2,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 import React from 'react';
 import Img from 'gatsby-image';
 
-const Image = ({ name: fileName, ...props }) => {
+const OptimizedImage = ({ name: fileName, ...props }) => {
 
   const { allImageSharp: { images } } = useStaticQuery(graphql`
     {
@@ -24,6 +24,22 @@ const Image = ({ name: fileName, ...props }) => {
   ));
 
   return <Img {...image.node} {...props} />;
+};
+
+const Image = ({ ...props }) => {
+  // Remote url: render ordinary img element with remote url src
+  if (props.name.includes('//')) {
+    return <img src={props.name} {...props} />
+
+  // Uploaded gif: require file and render with ordinary img element
+  } else if (props.name.includes('.gif')) {
+    const img = require(`../images/${props.name}`).default;
+    return <img src={img} {...props} />
+
+  // Uploaded jpg or png: Render with gatsby image plugin
+  } else {
+    return <OptimizedImage {...props} />
+  }
 };
 
 export default Image;
