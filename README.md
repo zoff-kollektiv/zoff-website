@@ -1,29 +1,32 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
+## 🚀 Using the CMS
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+1. You reach your CMS frontend via <DOMAIN>/admin. There you have to authenticate against GitHub (using your GitHub account credentials). Afterwards you'll be presented a list of all available collections.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+One of them is `Pages` which currently comprises only the about page. Normally you would not add another page as of now it won't be displayed anyway.
 
-## 🚀 Quick start
+The other collection is called `Project categories`. You can add as many project categories as you wish. Each project category has as attributes...
+* `Name`
+* `Order`, which represents the position of the respective category in the line of all categories to be chosen from randomly when users land on your page.
 
-1.  **Create a Gatsby site.**
+Each project category has as many `projects` associated with it as you wish. If one project shall be associated with more categories you will have to create it under the other category as a new project.
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+Each `project` consists of...
 
-    ```shell
-    # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
-    ```
+* An `image`, which you either upload, choose from existing images or from remote URL. Images can be GIFs as well!
+* A `caption`, which will be displayed underneath the image
+* An `image width` factor, which describes how wide in percent the image will be displayed
+* A `last project` flag representing whether the image will be displayed at the end. You can flag multiple images `last_project` (or none!). Those will be displayed in random order at the end of the entire image cycle
+* A `Project URL`, which is not used at the moment :D
 
-1.  **Start developing.**
+2. Publishing changes
+After editing your changes you save it via clicking the `Publish` button in the top right corner. After publishing a so called 'pipeline' is being triggered by the changes you commited which takes about a minute or two. After the pipeline has finished your changes are visible online, hurray!
+
+## 🚀 Technical Details
+#### Tech-Stack
+In order to make this site work we're using netlify-cms + Gatsby. The site is currently hosted by Netlify.
+
+#### Development
+1.  **Starting the development server**
 
     Navigate into your new site’s directory and start it up.
 
@@ -39,12 +42,6 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
 
     Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-default)
 
 ## 🧐 What's inside?
 
@@ -87,19 +84,3 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
 12. **`README.md`**: A text file containing useful reference information about your project.
-
-## 🎓 Learning Gatsby
-
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
-
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
-
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
-
-## 💫 Deploy
-
-[Build, Deploy, and Host On The Only Cloud Built For Gatsby](https://www.gatsbyjs.com/cloud/)
-
-Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
-
-<!-- AUTO-GENERATED-CONTENT:END -->
