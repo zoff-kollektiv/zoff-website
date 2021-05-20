@@ -11,7 +11,13 @@ module.exports = {
     `gatsby-transformer-remark`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+    {
+      resolve: "@sentry/gatsby",
+      options: {
+        dsn: "https://13991658db384dbf9664e0b432e8914e@sentry.dezim.space/7",
+        sampleRate: 0.7,
+      },
+    },   `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-offline`,
       options: {
