@@ -3,6 +3,7 @@ module.exports = {
     title: `Zoff Kollektiv`,
     description: `Webseite des Zoff Kollektivs`,
     author: `CodeRat`,
+    siteUrl: `https://zoff.coderat.cc`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
