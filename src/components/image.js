@@ -1,6 +1,6 @@
 import { useStaticQuery, graphql } from 'gatsby';
 import React from 'react';
-import { GatsbyImage } from "gatsby-plugin-image";
+import Img from 'gatsby-image';
 
 const Image = ({ name: fileName, ...props }) => {
 
@@ -9,12 +9,8 @@ const Image = ({ name: fileName, ...props }) => {
       allImageSharp {
         images: edges {
           node {
-            gatsbyImageData(
-              layout: CONSTRAINED
-              placeholder: BLURRED
-              webpOptions: {quality: 95}
-            )
-            fluid {
+            fluid(quality: 95, traceSVG: {}) {
+              ...GatsbyImageSharpFluid_withWebp
               originalName
             }
           }
@@ -27,7 +23,47 @@ const Image = ({ name: fileName, ...props }) => {
     name === fileName
   ));
 
-  return <GatsbyImage image={image.node.gatsbyImageData} {...props} />
+  return <Img {...image.node} {...props} />;
 };
 
 export default Image;
+
+// The code above uses the deprecated gatsby-image instead of gatsby-image-plugin.
+// This is, because it renders the placeholder faster, resulting in a much better UX
+// when images are loaded after click. Nevertheless, it could be replaced by:
+
+//
+// export default Image;
+//
+// import { useStaticQuery, graphql } from 'gatsby';
+// import React from 'react';
+// import { GatsbyImage } from "gatsby-plugin-image";
+//
+// const Image = ({ name: fileName, ...props }) => {
+//
+//   const { allImageSharp: { images } } = useStaticQuery(graphql`
+//     {
+//       allImageSharp {
+//         images: edges {
+//           node {
+//             gatsbyImageData(
+//               layout: CONSTRAINED
+//               placeholder: BLURRED
+//               webpOptions: {quality: 95}
+//             )
+//             fluid {
+//               originalName
+//             }
+//           }
+//         }
+//       }
+//     }
+//   `);
+//
+//   const image = images.find(({ node: { fluid: { originalName: name } } }) => (
+//     name === fileName
+//   ));
+//
+//   return <GatsbyImage image={image.node.gatsbyImageData} {...props} />
+// };
+//
