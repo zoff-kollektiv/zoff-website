@@ -1,22 +1,20 @@
 import { useStaticQuery, graphql } from 'gatsby';
 import React from 'react';
-import Img from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image";
 
 const Image = ({ name: fileName, ...props }) => {
-  const { width, centered } = props;
-  const styles = {
-    width: width ? `${width}` : 'unset',
-    margin: centered ? `0 auto` : 'unset'
-  };
-  const {
-    allImageSharp: { images }
-  } = useStaticQuery(graphql`
+
+  const { allImageSharp: { images } } = useStaticQuery(graphql`
     {
       allImageSharp {
         images: edges {
           node {
-            fluid(quality: 95, traceSVG: {}) {
-              ...GatsbyImageSharpFluid_withWebp
+            gatsbyImageData(
+              layout: CONSTRAINED
+              placeholder: BLURRED
+              webpOptions: {quality: 95}
+            )
+            fluid {
               originalName
             }
           }
@@ -25,15 +23,11 @@ const Image = ({ name: fileName, ...props }) => {
     }
   `);
 
-  const image = images.find(
-    ({
-      node: {
-        fluid: { originalName: name }
-      }
-    }) => name === fileName
-  );
+  const image = images.find(({ node: { fluid: { originalName: name } } }) => (
+    name === fileName
+  ));
 
-  return <Img style={styles} {...image.node} {...props} />;
+  return <GatsbyImage image={image.node.gatsbyImageData} {...props} />
 };
 
 export default Image;
