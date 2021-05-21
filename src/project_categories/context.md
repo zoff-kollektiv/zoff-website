@@ -17,9 +17,4 @@ projects:
     scale: 25
     project_url: https://lause10.de/
     last_project: false
-  - caption: Bla
-    project_url: https://github.com/coderat-collective/zoff-website/actions
-    scale: 100
-    image: wavecookies.jpeg
-    last_project: false
 ---
