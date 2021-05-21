@@ -20,7 +20,7 @@ projects:
     image: process-wellmitz.jpg
     caption: Ticket to the moon / Work in progress / 2019
     scale: 35
-  - last_project: true
+  - last_project: false
     image: process-nbk.jpg
     caption: Relearning bearing witness / workshop / 2021
     scale: 30
