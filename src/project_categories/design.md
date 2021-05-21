@@ -2,12 +2,12 @@
 title: Design
 order: 2
 projects:
-  - caption: About United / poster campaign / 2015-2019
+  - caption: About United / Plakat Kampagne / 2015-2019
     project_url: ""
     scale: 30
     image: design-aboutunited.jpg
     last_project: false
-  - caption: Analyse und Kritik / Website / 2020
+  - caption: Analyse und Kritik / Website Relaunch / 2020
     project_url: https://www.akweb.de/
     scale: 45
     image: design-ak.jpg
@@ -18,7 +18,7 @@ projects:
     image: design-bruderland.jpg
     last_project: false
   - last_project: false
-    caption: linksjugend ['solid] / corporate, website and sharepics generator / 2020
+    caption: linksjugend ['solid] / 2020
     scale: 30
     image: design-linkjugendsolid.gif
   - last_project: false
