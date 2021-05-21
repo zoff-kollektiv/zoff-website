@@ -3,7 +3,7 @@ local_backend:
 
 backend:
   name: github
-  repo: coderat-collective/zoff-website
+  repo: zoff-kollektiv/zoff-website
   branch: main
 
 media_folder: src/images
