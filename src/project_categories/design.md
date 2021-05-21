@@ -21,4 +21,8 @@ projects:
     scale: 28
     image: giphy.gif
     last_project: false
+  - last_project: false
+    caption: linksjugend ['solid] / corporate, website and sharepics generator / 2020
+    scale: 50
+    image: design-linkjugendsolid.gif
 ---
