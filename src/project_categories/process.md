@@ -12,11 +12,6 @@ projects:
     scale: 35
     image: process-ak.jpg
     last_project: false
-  - caption: Blub
-    scale: 47
-    project_url: https://cdn.vox-cdn.com/thumbor/zL48ecvX2NkW1cU0FEfgrCc7Rgo=/0x0:900x500/920x613/filters:focal(378x178:522x322):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49493993/this-is-fine.0.jpg
-    image: funny_cat.jpg
-    last_project: true
   - last_project: true
     image: process-digitalgewalt.jpg
     caption: Digital Gewalt / Photo Shooting / 2020
