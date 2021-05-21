@@ -20,11 +20,11 @@ projects:
     image: context-deluxedeckeln.jpg
     caption: Deluxe Deckeln / Plakate / 2019
     scale: 35
-  - last_project: true
+  - last_project: false
     image: context-jetzterstrecht.jpg
     caption: Jetzt erst recht / Plakatkampagne / 2019
     scale: 40
-  - last_project: true
+  - last_project: false
     image: context-wewillrise.jpg
     caption: We will rise / Rosa Luxemburg Stiftung / 2019
     scale: 50
