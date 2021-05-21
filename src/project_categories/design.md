@@ -29,7 +29,7 @@ projects:
     scale: 28
     image: giphy.gif
     last_project: true
-  - last_project: true
+  - last_project: false
     image: design-bff.jpg
     caption: Title / BFF / 2019
     scale: 35
