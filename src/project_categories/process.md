@@ -16,9 +16,9 @@ projects:
     image: process-digitalgewalt.jpg
     caption: Digital Gewalt / Photo Shooting / 2020
     scale: 45
-  - last_project: true
+  - last_project: false
     image: process-wellmitz.jpg
-    caption: Work in progress / 2019
+    caption: Ticket to the moon / Work in progress / 2019
     scale: 35
   - last_project: true
     image: process-nbk.jpg
