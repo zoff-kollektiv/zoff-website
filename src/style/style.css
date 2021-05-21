@@ -76,7 +76,8 @@ figcaption {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 200px;
+  width: 250px;
+  max-width: 65vw;
 }
 
 .about-page strong {
