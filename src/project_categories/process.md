@@ -37,4 +37,8 @@ projects:
     image: extra-wellmitz.jpg
     caption: Kollektivtreffen / 2019
     scale: 35
+  - last_project: false
+    caption: relearning bearing witness / natascha sadr haghighian
+    scale: 50
+    image: process-relearning.jpg
 ---
