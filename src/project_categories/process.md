@@ -24,4 +24,17 @@ projects:
     image: process-nbk.jpg
     caption: Relearning bearing witness / workshop / 2021
     scale: 30
+  - last_project: false
+    image: process-student.jpg
+    caption: Diskussion mit Studenten der Burg Giebichenstein Kunsthochschule Halle
+      / 2020
+    scale: 40
+  - last_project: false
+    image: process-bff.jpg
+    caption: Title / BFF / 2019
+    scale: 50
+  - last_project: false
+    image: extra-wellmitz.jpg
+    caption: Kollektivtreffen / 2019
+    scale: 35
 ---
