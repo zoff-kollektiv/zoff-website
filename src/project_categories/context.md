@@ -5,7 +5,7 @@ projects:
   - caption: About United / ://aboutblank / 2019
     image: context-aboutunited.jpg
     project_url: ""
-    scale: 25
+    scale: 45
     last_project: false
   - caption: Lause bleibt / 2018
     image: context-lause.jpg
