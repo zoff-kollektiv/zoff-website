@@ -32,4 +32,16 @@ projects:
     image: context-racialprofiling.jpg
     caption: Racial / Profiling / Rosa Luxemburg Stiftung / 2020
     scale: 35
+  - last_project: false
+    image: context-trauma.jpg
+    caption: Traumaarbeit / BFF / 2021
+    scale: 45
+  - last_project: false
+    image: context-apartheidno.jpg
+    caption: Apartheid No! / Rosa Luxemburg Stiftung / 2019
+    scale: 35
+  - last_project: false
+    image: context-wariswar.jpg
+    caption: War is war / 2019
+    scale: 35
 ---
