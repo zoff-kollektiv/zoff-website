@@ -45,7 +45,7 @@ projects:
     image: design-iuventa10.jpg
     caption: iuventa10 / 2019
     scale: 35
-  - last_project: true
+  - last_project: false
     caption: RomArchive / 2019
     scale: 45
     image: design-romarchiv2.jpg
