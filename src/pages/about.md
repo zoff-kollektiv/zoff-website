@@ -2,16 +2,18 @@
 languages:
   - language: de
     body: >-
-      zoff ist ein kollektiv für visuelle kommunikation.
+      **zoff** ist ein kollektiv für visuelle kommunikation.
 
 
-      wir arbeiten an der schnittstelle zwischen design, kunst und politik. gemeinsam konzipieren, gestalten und programmieren wir webseiten, entwickeln kampagnen, publikationen und ausstellungen.
+      **wir arbeiten an** der schnittstelle zwischen design, kunst und politik. gemeinsam konzipieren, gestalten und programmieren wir webseiten, entwickeln kampagnen, publikationen und ausstellungen.
 
 
-      uns interessiert die demokratisierung der demokratie, die soziale und politische wirkung von gestaltung. wir wollen, dass mit und durch projekte an denen wir arbeiten #empowern, #intervenieren oder #erzählen.
+      **uns interessiert** die demokratisierung der demokratie, die soziale und politische wirkung von gestaltung. wir wollen, dass mit und durch projekte an denen wir arbeiten #empowern, #intervenieren oder #erzählen.
 
 
-      wir entwickeln visuelle kommunikationswerkzeuge in politischen, sozialen, kulturellen und bildungs-kontexten.
+      **wir entwickeln** visuelle kommunikationswerkzeuge in politischen, sozialen, kulturellen und bildungs-kontexten.
+
+
 
 
       **kontakt**\
@@ -27,9 +29,13 @@ languages:
       [kontakt@zoff-kollektiv.net](<mailto: kontakt@zoff-kollektiv.net>)
 
 
+
+
       **ohne den wäre zoff nicht zoff**\
 
       gustav pursche, tilman miraß, luise menz, sandra méndez
+
+
 
 
       **mitstreiterinnen**\
@@ -37,11 +43,15 @@ languages:
       sylvain mazas, büro achso, systra, marc wright, jib collective, ...
 
 
+
+
       **impressum**\
 
       coding: coderat\
 
       font: pmn caecilia
+
+
 
 
       **datenschutz**
