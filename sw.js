@@ -58,11 +58,11 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "3eee9226d6eccc4d1f230bc4afdb906e"
+    "revision": "73ed554af869a29efbc66c69ef914221"
   },
   {
     "url": "404/index.html",
-    "revision": "f886d8610fd79afe0f2fda405764f312"
+    "revision": "f5512e1ebb6c10891aa042239dfe1521"
   },
   {
     "url": "532a2f07-2b491197e5445acdb528.js"
@@ -72,7 +72,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "7a70c82b050e0aab9ac3a959193f4347"
+    "revision": "b0e43d44ffaecbff801aa703030305f0"
   },
   {
     "url": "admin/cms.js"
@@ -94,7 +94,7 @@ self.__precacheManifest = [
     "url": "app-5762d927242891032240.js"
   },
   {
-    "url": "app-97d8a11d7d89c940d4f3.js"
+    "url": "app-6c43ab7b4da69c231b33.js"
   },
   {
     "url": "app-b31156e19b9a062327ff.js"
@@ -161,11 +161,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "218644f04de4c98bff50342def386cf4"
+    "revision": "dccc9dd432c01298cfc849414e38b369"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "13197c20b5af39b388e37887891cdcfc"
+    "revision": "09cbaf53a07dd2b169a65bf4b8bca076"
   },
   {
     "url": "polyfill-564fab21cd0762acc05c.js"
@@ -180,10 +180,10 @@ self.__precacheManifest = [
     "url": "static/zoff2-50c54d56735e3414648dbf0083f80f69.woff"
   },
   {
-    "url": "styles.5a6158beec8d22953116.css"
+    "url": "styles.4ebe4d1bbb287b8993f3.css"
   },
   {
-    "url": "styles.68ae19b1839d39e1dc64.css"
+    "url": "styles.5a6158beec8d22953116.css"
   },
   {
     "url": "styles.7931da9fd57f417996ca.css"
@@ -201,9 +201,6 @@ self.__precacheManifest = [
     "url": "webpack-runtime-07ed757580955c184890.js"
   },
   {
-    "url": "webpack-runtime-0d95625f0ce793e7f229.js"
-  },
-  {
     "url": "webpack-runtime-40c4a87a8b07ce8b552b.js"
   },
   {
@@ -214,6 +211,9 @@ self.__precacheManifest = [
   },
   {
     "url": "webpack-runtime-c00685bea80aeb12992f.js"
+  },
+  {
+    "url": "webpack-runtime-e13f4889c590164d6158.js"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -305,7 +305,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-97d8a11d7d89c940d4f3.js`))) {
+  if (!resources || !(await caches.match(`/app-6c43ab7b4da69c231b33.js`))) {
     return await fetch(event.request)
   }
 
