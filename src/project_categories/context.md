@@ -16,7 +16,7 @@ projects:
     image: context-bruderland.jpg
     caption: Website Launch / Bruderland / 2019
     scale: 45
-  - last_project: true
+  - last_project: false
     image: context-deluxedeckeln.jpg
     caption: Deluxe Deckeln / Mietaktivist:innen Bündnis / 2019
     scale: 35
