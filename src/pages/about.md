@@ -13,8 +13,9 @@ languages:
 
       **wir entwickeln** visuelle kommunikationswerkzeuge in politischen, sozialen, kulturellen und bildungs-kontexten.
 
+      \
 
-
+      \
 
       **kontakt**\
 
@@ -28,22 +29,23 @@ languages:
 
       [kontakt@zoff-kollektiv.net](<mailto: kontakt@zoff-kollektiv.net>)
 
+      \
 
-
+      \
 
       **ohne den wäre zoff nicht zoff**\
 
-      gustav pursche, tilman miraß, luise menz, sandra méndez
+      gustav pursche, tilman miraß, luise menz, sandra méndez\
 
-
-
+      \
 
       **mitstreiterinnen**\
 
       sylvain mazas, büro achso, systra, marc wright, jib collective, ...
 
+      \
 
-
+      \
 
       **impressum**\
 
@@ -51,8 +53,9 @@ languages:
 
       font: pmn caecilia
 
+      \
 
-
+      \
 
       **datenschutz**
   - language: en
