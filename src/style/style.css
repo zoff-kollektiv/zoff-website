@@ -68,15 +68,15 @@ figcaption {
 
 .about-link {
   position: fixed;
-  bottom: 10px;
-  right: 30px;
+  bottom: 0;
+  right: 1vw;
 }
 
 .about-link img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 250px;
+  width: 200px;
 }
 
 .about-page strong {

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Zoff`,
-    description: `Kollektiv für visuelle Kommunikation `,
-    author: `Zoff`,
+    title: `zoff`,
+    description: `kollektiv für visuelle kommunikation `,
+    author: `zoff`,
     siteUrl: `https://zoff.coderat.cc`,
   },
   plugins: [
