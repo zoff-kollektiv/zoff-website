@@ -12,7 +12,7 @@ projects:
     scale: 35
     image: process-ak.jpg
     last_project: false
-  - last_project: true
+  - last_project: false
     image: process-digitalgewalt.jpg
     caption: Digital Gewalt / Photo Shooting / 2020
     scale: 45
