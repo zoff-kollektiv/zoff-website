@@ -53,4 +53,8 @@ projects:
     caption: Klimawende von unten / Umweltinstitut München
     scale: 40
     image: design-klimawende.jpg
+  - last_project: false
+    image: design-soli.jpg
+    caption: solidarisch geht anders / 2021
+    scale: 40
 ---
