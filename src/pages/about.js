@@ -16,7 +16,7 @@ const About = ({ data }) => {
     content
       .map(l => l.language)
       .map(lang => (
-        <>
+        <div className="locale-link">
           <Link
             to={`#${lang}`}
             onClick={() => setLanguage(lang)}
@@ -24,8 +24,7 @@ const About = ({ data }) => {
           >
             {lang}
           </Link>
-          <br />
-        </>
+        </div>
       ))
 
   return (
@@ -33,7 +32,10 @@ const About = ({ data }) => {
       <Seo title="About" />
       <div className="about-page">
         <Link className="back-link" to="/">
-          {"<"}
+          <img src="/back_default.svg"
+            onMouseOver={e => (e.currentTarget.src = "/back_hover.svg")}
+            onMouseOut={e => (e.currentTarget.src = "/back_default.svg")}
+          />
         </Link>
         <div className="locale-links">
           <LocaleLinks />
