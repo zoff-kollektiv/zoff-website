@@ -147,7 +147,9 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <Seo title="Zoff" />
-      {<Projects />}
+      <div className="projects-container">
+        {<Projects />}
+      </div>
       <p>
         <Link className="about-link" to="/about/">
           <img src="/logo_default.svg"
