@@ -56,6 +56,6 @@ projects:
     image: design-klimawende.jpg
   - last_project: false
     image: design-soli.jpg
-    caption: solidarisch geht anders / 2021
+    caption: Solidarisch geht anders / Kampagnen Webseite / 2021
     scale: 40
 ---
