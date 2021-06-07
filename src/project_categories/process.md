@@ -43,5 +43,5 @@ projects:
   - last_project: false
     image: process-lauselebt.jpg
     caption: Mietendemo / Lause Lebt / 2019
-    scale: 50
+    scale: 14
 ---
