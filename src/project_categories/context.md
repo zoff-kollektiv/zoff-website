@@ -52,4 +52,8 @@ projects:
     caption: Mietendeckel Jetzt! / Kampagne Berliner Mieterverein / 2020
     scale: 50
     image: context-mietendeckel-2.jpg
+  - last_project: false
+    image: context-alarmphone.jpg
+    caption: Alarmphone in action / Watchthemed / 2019
+    scale: 6
 ---
