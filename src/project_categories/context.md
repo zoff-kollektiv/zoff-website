@@ -42,6 +42,6 @@ projects:
     scale: 35
   - last_project: false
     image: context-wariswar.jpg
-    caption: War is war / 2019
+    caption: War is war / Tatyana Yassievich / 2019
     scale: 35
 ---
