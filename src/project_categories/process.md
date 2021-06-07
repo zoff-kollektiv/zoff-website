@@ -31,7 +31,7 @@ projects:
     scale: 40
   - last_project: false
     image: process-bff.jpg
-    caption: Title / BFF / 2019
+    caption: Produktion der Clips »Was geht bei Euch?« / BFF / 2019
     scale: 50
   - last_project: false
     image: extra-wellmitz.jpg
