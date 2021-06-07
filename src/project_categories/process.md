@@ -48,4 +48,8 @@ projects:
     image: process-homeoffice3-0.jpg
     caption: Homeoffice 3.0 / 2021
     scale: 30
+  - last_project: false
+    caption: Kollektivarbeit / 2020
+    scale: 29
+    image: process-kollektiv-lause.jpg
 ---
