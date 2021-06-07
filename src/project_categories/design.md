@@ -31,7 +31,7 @@ projects:
     last_project: true
   - last_project: false
     image: design-bff.jpg
-    caption: Kampagne »Was geht bei Euch« / BFF / 2019
+    caption: Was geht bei Euch? / BFF-Kampagne / 2019
     scale: 35
   - last_project: false
     image: design-rosa.jpg
