@@ -22,7 +22,7 @@ projects:
     scale: 35
   - last_project: false
     image: process-nbk.jpg
-    caption: Relearning bearing witness / workshop / 2021
+    caption: Relearning bearing witness / Workshop / 2021
     scale: 30
   - last_project: false
     image: process-student.jpg
