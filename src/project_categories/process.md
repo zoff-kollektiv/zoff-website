@@ -26,8 +26,7 @@ projects:
     scale: 30
   - last_project: false
     image: process-student.jpg
-    caption: Diskussion mit Studenten der Burg Giebichenstein Kunsthochschule Halle
-      / 2020
+    caption: Studiobesuch der Burg Giebichenstein Kunsthochschule Halle / 2020
     scale: 40
   - last_project: false
     image: process-bff.jpg
