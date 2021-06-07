@@ -47,7 +47,7 @@ projects:
     caption: Iuventa10 / Kampagnen-Webseite / 2019
     scale: 35
   - last_project: false
-    caption: RomArchive / 2019
+    caption: RomArchive / Digitales Archiv der Sinti und Roma / 2019
     scale: 45
     image: design-romarchiv2.jpg
   - last_project: false
