@@ -2,7 +2,7 @@
 title: Process
 order: 3
 projects:
-  - caption: About United / Fotoshooting / 2016
+  - caption: About United / Photo Shooting / 2019
     project_url: ""
     scale: 35
     image: process-aboutunited.jpg
@@ -41,4 +41,8 @@ projects:
     caption: relearning bearing witness / natascha sadr haghighian
     scale: 50
     image: process-relearning.jpg
+  - last_project: false
+    caption: Kollektivarbeit / 2020
+    scale: 30
+    image: prozess-zoff-lause.jpg
 ---
