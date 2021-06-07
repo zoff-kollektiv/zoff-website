@@ -41,7 +41,7 @@ projects:
     image: design-romarchiv.jpg
     caption: RomArchive / Digitales Archiv der Sinti und Roma / 2019
     scale: 50
-    project_url: https://www.romarchive.eu
+    project_url: ""
   - last_project: false
     image: design-iuventa10.jpg
     caption: Iuventa10 / Kampagnen-Webseite / 2019
