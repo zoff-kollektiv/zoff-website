@@ -34,7 +34,7 @@ projects:
     scale: 35
   - last_project: false
     image: context-trauma.jpg
-    caption: Traumaarbeit / BFF / 2021
+    caption: Kontextualisierte Traumaarbeit / BFF / 2021
     scale: 45
   - last_project: false
     image: context-apartheidno.jpg
