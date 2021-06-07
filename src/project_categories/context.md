@@ -26,7 +26,7 @@ projects:
     scale: 40
   - last_project: false
     image: context-wewillrise.jpg
-    caption: We will rise / Rosa Luxemburg Stiftung / 2019
+    caption: We will rise! / Faltposter Rosa Luxemburg Stiftung / 2019
     scale: 50
   - last_project: false
     image: context-racialprofiling.jpg
