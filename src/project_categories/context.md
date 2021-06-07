@@ -14,7 +14,7 @@ projects:
     last_project: false
   - last_project: false
     image: context-bruderland.jpg
-    caption: Website Launch / Bruderland / 2019
+    caption: Präsentation der Webdoku / Bruderland / 2019
     scale: 45
   - last_project: false
     image: context-deluxedeckeln.jpg
