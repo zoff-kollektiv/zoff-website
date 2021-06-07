@@ -22,7 +22,7 @@ projects:
     scale: 35
   - last_project: false
     image: context-jetzterstrecht.jpg
-    caption: Jetzt erst recht / 2019
+    caption: Jetzt erst recht / Posterserie / 2019
     scale: 40
   - last_project: false
     image: context-wewillrise.jpg
