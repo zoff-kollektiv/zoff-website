@@ -7,7 +7,7 @@ projects:
     scale: 30
     image: design-aboutunited.jpg
     last_project: false
-  - caption: Analyse und Kritik / Relaunch Webseite / 2020
+  - caption: Analyse & Kritik / Relaunch Webseite / 2020
     project_url: https://www.akweb.de/
     scale: 45
     image: design-ak.jpg
