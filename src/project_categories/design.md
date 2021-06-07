@@ -12,7 +12,7 @@ projects:
     scale: 45
     image: design-ak.jpg
     last_project: false
-  - caption: Bruderland / Storytelling website / 2019
+  - caption: Bruderland / Digital Storytelling / 2019
     project_url: https://bruderland.de/
     scale: 50
     image: design-bruderland.jpg
