@@ -2,7 +2,7 @@
 title: Process
 order: 3
 projects:
-  - caption: About United / Photo Shooting / 2019
+  - caption: About United / Fotoshooting / 2016
     project_url: ""
     scale: 35
     image: process-aboutunited.jpg
