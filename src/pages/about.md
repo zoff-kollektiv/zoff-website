@@ -33,7 +33,7 @@ languages:
 
       \
 
-      **ohne den wäre zoff nicht zoff**\
+      **ohne die wäre zoff nicht zoff**\
 
       gustav pursche, tilman miraß, luise menz, sandra méndez\
 
