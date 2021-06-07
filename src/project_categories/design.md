@@ -18,7 +18,7 @@ projects:
     image: design-bruderland.jpg
     last_project: false
   - last_project: false
-    caption: linksjugend ['solid] / 2020
+    caption: Linksjugend ['solid] / CD & Sharepicgenerator / 2020
     scale: 30
     image: design-linkjugendsolid.gif
   - last_project: false
