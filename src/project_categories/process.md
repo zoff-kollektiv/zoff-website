@@ -44,4 +44,8 @@ projects:
     image: process-lauselebt.jpg
     caption: Mietendemo / Lause Lebt / 2019
     scale: 14
+  - last_project: false
+    image: process-homeoffice3-0.jpg
+    caption: Homeoffice 3.0 / 2021
+    scale: 30
 ---
