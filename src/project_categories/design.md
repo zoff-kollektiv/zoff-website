@@ -13,7 +13,7 @@ projects:
     image: design-ak.jpg
     last_project: false
   - caption: Bruderland / Digital Storytelling / 2019
-    project_url: https://bruderland.de/
+    project_url: ""
     scale: 50
     image: design-bruderland.jpg
     last_project: false
