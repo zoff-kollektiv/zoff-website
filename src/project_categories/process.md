@@ -37,7 +37,7 @@ projects:
     caption: Kollektivtreffen / 2019
     scale: 35
   - last_project: false
-    caption: Relearning bearing witness / n.b.k. / Natascha Sadr Haghighian
+    caption: Relearning bearing witness / n.b.k. / Natascha Sadr Haghighian / 2020
     scale: 50
     image: process-relearning.jpg
 ---
