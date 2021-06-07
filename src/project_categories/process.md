@@ -14,7 +14,7 @@ projects:
     last_project: false
   - last_project: false
     image: process-digitalgewalt.jpg
-    caption: Digital ist real / Fotoshooting / 2020
+    caption: Digital ist real / Clipshooting / 2020
     scale: 45
   - last_project: false
     image: process-wellmitz.jpg
