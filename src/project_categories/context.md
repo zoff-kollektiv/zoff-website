@@ -55,5 +55,5 @@ projects:
   - last_project: false
     image: context-alarmphone.jpg
     caption: Alarmphone in action / Watchthemed / 2019
-    scale: 6
+    scale: 40
 ---
