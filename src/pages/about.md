@@ -41,7 +41,7 @@ languages:
 
       **mitstreiterinnen**\
 
-      sylvain mazas, büro achso, systra, marc wright, jib collective, ...
+      sylvain mazas, büro achso, systra, marc wright, jib collective, cai schmitz-weicht ...
 
       \
 
