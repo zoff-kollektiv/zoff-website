@@ -44,7 +44,7 @@ projects:
     project_url: https://www.romarchive.eu
   - last_project: false
     image: design-iuventa10.jpg
-    caption: iuventa10 / 2019
+    caption: Iuventa10 / Kampagnen-Webseite / 2019
     scale: 35
   - last_project: false
     caption: RomArchive / 2019
