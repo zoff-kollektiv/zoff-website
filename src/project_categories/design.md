@@ -51,7 +51,7 @@ projects:
     scale: 45
     image: design-romarchiv2.jpg
   - last_project: false
-    caption: Klimawende von unten / Umweltinstitut München
+    caption: Klimawende von unten / Umweltinstitut München / 2019
     scale: 40
     image: design-klimawende.jpg
   - last_project: false
