@@ -48,4 +48,8 @@ projects:
     caption: Analyse & Kritik / 2020
     scale: 30
     image: context-ak.jpg
+  - last_project: false
+    caption: Mietendeckel Jetzt! / Kampagne Berliner Mieterverein / 2020
+    scale: 50
+    image: context-mietendeckel-2.jpg
 ---
