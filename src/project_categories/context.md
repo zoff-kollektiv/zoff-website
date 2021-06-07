@@ -7,7 +7,7 @@ projects:
     project_url: ""
     scale: 45
     last_project: false
-  - caption: Lause bleibt / 2018
+  - caption: Lause bleibt / Posterserie / 2018
     image: context-lause.jpg
     scale: 30
     project_url: https://lause10.de/
