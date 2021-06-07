@@ -30,7 +30,7 @@ projects:
     scale: 50
   - last_project: false
     image: context-racialprofiling.jpg
-    caption: Racial / Profiling / Rosa Luxemburg Stiftung / 2020
+    caption: Racial Profiling / Rosa Luxemburg Stiftung / 2020
     scale: 35
   - last_project: false
     image: context-trauma.jpg
