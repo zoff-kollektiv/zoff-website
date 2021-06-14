@@ -56,4 +56,8 @@ projects:
     image: context-alarmphone.jpg
     caption: Alarmphone in action / Watchthemed / 2019
     scale: 40
+  - last_project: false
+    image: context-lausebleibt-umbruch.jpg
+    scale: 45
+    caption: Lause Bleibt / Protestkit / 2019
 ---
