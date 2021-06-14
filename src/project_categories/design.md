@@ -66,4 +66,8 @@ projects:
     caption: About United / Plakatserie / 2015-2019
     scale: 50
     image: design-aboutunited-2016-2019.gif
+  - last_project: false
+    image: lause-bleibt.gif
+    scale: 50
+    caption: Lause Bleibt / Posterserie / 2019
 ---
