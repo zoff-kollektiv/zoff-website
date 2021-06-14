@@ -70,4 +70,8 @@ projects:
     image: lause-bleibt.gif
     scale: 50
     caption: Lause Bleibt / Posterserie / 2019
+  - last_project: false
+    image: design-bmv-mietendeckel-jetzt.gif
+    scale: 30
+    caption: Mietendeckel Jetzt / Berliner Mieterverein / 2020
 ---
