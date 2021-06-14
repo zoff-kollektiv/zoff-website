@@ -51,5 +51,5 @@ projects:
   - last_project: true
     image: lastimage-zoff.jpg
     caption: Zoff Studio / 2021
-    scale: 50
+    scale: 30
 ---
