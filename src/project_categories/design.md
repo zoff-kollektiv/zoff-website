@@ -73,5 +73,5 @@ projects:
   - last_project: false
     image: design-iuventa10.gif
     caption: Iuventa10 / Digital Storytelling / 2020
-    scale: 50
+    scale: 40
 ---
