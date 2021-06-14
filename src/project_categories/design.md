@@ -74,4 +74,8 @@ projects:
     image: design-bmv-mietendeckel-jetzt.gif
     scale: 30
     caption: Mietendeckel Jetzt / Berliner Mieterverein / 2020
+  - last_project: false
+    image: design-iuventa10.gif
+    caption: Iuventa10 / Digital Storytelling / 2020
+    scale: 50
 ---
