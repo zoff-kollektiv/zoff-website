@@ -64,4 +64,8 @@ projects:
     caption: Netzwerk Polylux / Webseite / 2019
     scale: 40
     image: context-polylux.jpg
+  - last_project: false
+    caption: Netzwerk Polylux / 2019
+    scale: 35
+    image: context-polylux-missy.jpg
 ---
