@@ -61,7 +61,7 @@ projects:
     scale: 45
     caption: Lause Bleibt / Protestkit / 2019
   - last_project: false
-    caption: Netzwerk Polylux / 2019
+    caption: Netzwerk Polylux / Webseite / 2019
     scale: 40
     image: context-polylux.jpg
 ---
