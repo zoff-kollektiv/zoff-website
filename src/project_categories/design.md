@@ -74,4 +74,8 @@ projects:
     image: design-iuventa10.gif
     caption: Iuventa10 / Digital Storytelling / 2020
     scale: 40
+  - last_project: false
+    caption: Kein Schlussstrich! / Identität / 2021
+    scale: 30
+    image: ks-sm-animation-2s.gif
 ---
