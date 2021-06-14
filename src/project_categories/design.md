@@ -10,7 +10,7 @@ projects:
   - caption: Analyse & Kritik / Relaunch Webseite / 2020
     project_url: https://www.akweb.de/
     scale: 45
-    image: design-ak-6.jpg
+    image: design-ak-2.jpg
     last_project: false
   - caption: Bruderland / Digital Storytelling / 2019
     project_url: ""
