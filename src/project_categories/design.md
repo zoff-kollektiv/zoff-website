@@ -25,10 +25,6 @@ projects:
     image: design-aircrewalliance.jpg
     caption: Aircrew Alliance / ver.di / 2020
     scale: 35
-  - caption: GIF GIF GIF
-    scale: 28
-    image: giphy.gif
-    last_project: true
   - last_project: false
     image: design-bff.jpg
     caption: Was geht bei Euch? / BFF-Kampagne / 2019
