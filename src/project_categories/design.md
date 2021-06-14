@@ -64,7 +64,7 @@ projects:
     image: design-aboutunited-2016-2019.gif
   - last_project: false
     image: lause-bleibt.gif
-    scale: 50
+    scale: 30
     caption: Lause Bleibt / Posterserie / 2019
   - last_project: false
     image: design-bmv-mietendeckel-jetzt.gif
