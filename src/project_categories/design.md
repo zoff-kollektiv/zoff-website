@@ -78,4 +78,8 @@ projects:
     caption: Kein Schlussstrich! / Identität / 2021
     scale: 30
     image: ks-sm-animation-2s.gif
+  - last_project: false
+    caption: Kein Schlussstrich! / Identität / 2021
+    scale: 30
+    image: design-kein.gif
 ---
