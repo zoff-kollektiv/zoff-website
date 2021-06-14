@@ -60,7 +60,7 @@ projects:
     image: design-seebruecke-1.jpg
   - last_project: false
     caption: About United / Plakatserie / 2015-2019
-    scale: 50
+    scale: 30
     image: design-aboutunited-2016-2019.gif
   - last_project: false
     image: lause-bleibt.gif
