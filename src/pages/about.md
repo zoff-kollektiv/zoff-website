@@ -2,16 +2,31 @@
 languages:
   - language: de
     body: >-
-      **zoff** ist ein kollektiv für visuelle kommunikation.
+      **wir sind zoff**, ein Kollektiv für visuelle Kommunikation.
 
+      \
 
-      **wir arbeiten an** der schnittstelle zwischen design, kunst und politik. gemeinsam konzipieren, gestalten und programmieren wir webseiten, entwickeln kampagnen, publikationen und ausstellungen.
+      \
 
+      **wir arbeiten an** der Schnittstelle von Design, Kunst und Politik. 
 
-      **uns interessiert** die demokratisierung der demokratie, die soziale und politische wirkung von gestaltung. wir wollen, dass mit und durch projekte an denen wir arbeiten #empowern, #intervenieren oder #erzählen.
+      \
 
+      \
 
-      **wir entwickeln** visuelle kommunikationswerkzeuge in politischen, sozialen, kulturellen und bildungs-kontexten.
+      **wir stehen für** die Demokratisierung der Demokratie, für die Gesellschaft der Vielen, für eine basisdemokratische, intersektionale feministische, antirassistische, ökologische und soziale Politik.
+
+      \
+
+      \
+
+      **wir glauben an** eine visuelle Kommunikation, die mit visuellen Stereotypen bricht und die Dekolonisierung von Bildern ermöglicht. Eine Kommunikation, die die Hegemonie der Sprecherposition in Fragen stellt. Eine Kommunikation, die einen Perspektivenwechsel bietet und eine Verschiebung der Machtverhältnisse ermöglicht. Eine Kommunikation, die eher zum Nachdenken als zum Überzeugen anregt. Eine Kommunikation, die sich sozialer Determinismen und visueller Codierung bewusst ist und versucht eher inklusive Räume der sozialen Interaktion zu gestalten als eine exklusive Ästhetisierung des Diskurses anzustreben. Eine Kommunikation, die Empowerment und konkrete politische Wirksamkeit ermöglicht. 
+
+      \
+
+      \
+
+      **wir entwickeln** Kommunikationsstrategien, konzipieren, managen und produzieren Kampagnen, Visuelle Systeme und verschiedene digitale Formate (bspw. digital storytelling) für politische, soziale, kulturelle und Bildungsprojekte. Wir entwickeln partizipative Prozesse, die Räume für andere Narrative bieten. Wir arbeiten gern prozessorientiert und legen viel Wert auf eine ein kontinuierlichen und regelmäßigen Austausch während des ganze Projektes.
 
       \
 
