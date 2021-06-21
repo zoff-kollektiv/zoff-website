@@ -82,4 +82,8 @@ projects:
     caption: Kein Schlussstrich! / Identität / 2021
     scale: 30
     image: design-kein.gif
+  - last_project: false
+    image: design-migration-control-1.png
+    caption: Migration Control / Taz / 2017
+    scale: 50
 ---
