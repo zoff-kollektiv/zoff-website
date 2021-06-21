@@ -103,4 +103,8 @@ projects:
     image: berlinerzustaende-2019-cover.jpg
     caption: Berliner Zustände / Apabiz & mbr / 2019
     scale: 45
+  - last_project: false
+    image: shooting-superfly-7442.jpg
+    caption: Aircrew Alliance / Fotoshootings / 2019
+    scale: 1
 ---
