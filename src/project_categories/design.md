@@ -99,4 +99,8 @@ projects:
     image: rosa-denkt-sw.jpg
     caption: RS LXMBRG / RLS / 2020
     scale: 30
+  - last_project: false
+    image: berlinerzustaende-2019-cover.jpg
+    caption: Berliner Zustände / Apabiz & mbr / 2019
+    scale: 45
 ---
