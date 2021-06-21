@@ -111,4 +111,8 @@ projects:
     image: design-soluch-3.png
     scale: 45
     caption: Goska Soluch / Webseite / 2019
+  - last_project: false
+    image: design-berlinerzustaende-04.png
+    caption: Berliner Zustände / apabiz & Mbr / 2019
+    scale: 1
 ---
