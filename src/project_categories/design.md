@@ -107,4 +107,8 @@ projects:
     image: shooting-superfly-7442.jpg
     caption: Aircrew Alliance / Fotoshootings / 2019
     scale: 1
+  - last_project: false
+    image: design-soluch-3.png
+    scale: 45
+    caption: Goska Soluch / Webseite / 2019
 ---
