@@ -60,4 +60,8 @@ projects:
     caption: Zoff in der Missy / Interview / 2021
     scale: 30
     image: zoff-missy-2.jpg
+  - last_project: false
+    caption: Aircrew Alliance / Fotoshooting / 2019
+    scale: 45
+    image: shooting-superfly-7442.jpg
 ---
