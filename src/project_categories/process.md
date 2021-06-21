@@ -44,10 +44,6 @@ projects:
     image: process-lauselebt.jpg
     caption: Mietendemo / Lause Lebt / 2019
     scale: 50
-  - last_project: false
-    caption: Kollektivarbeit / 2020
-    scale: 29
-    image: process-kollektiv-lause.jpg
   - last_project: true
     image: lastimage-zoff.jpg
     caption: Zoff Studio / 2021
