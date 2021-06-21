@@ -52,4 +52,8 @@ projects:
     image: lastimage-zoff.jpg
     caption: Zoff Studio / 2021
     scale: 30
+  - last_project: false
+    caption: Zoff in der Missy / Interview / 2021
+    scale: 30
+    image: zoff-missy-1.jpg
 ---
