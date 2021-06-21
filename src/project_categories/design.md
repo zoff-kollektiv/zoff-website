@@ -86,4 +86,9 @@ projects:
     image: design-migration-control-1.png
     caption: Migration Control / Taz / 2017
     scale: 50
+  - last_project: false
+    image: design-migration-control-2.png
+    project_url: ""
+    scale: 50
+    caption: Migration Control / Taz / 2017
 ---
