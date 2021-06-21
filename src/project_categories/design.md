@@ -110,5 +110,5 @@ projects:
   - last_project: false
     image: design-berlinerzustaende-04.png
     caption: Berliner Zustände / apabiz & Mbr / 2019
-    scale: 1
+    scale: 30
 ---
