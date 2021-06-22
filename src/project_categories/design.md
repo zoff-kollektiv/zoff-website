@@ -51,10 +51,6 @@ projects:
     scale: 40
     image: design-klimawende.jpg
   - last_project: false
-    image: design-soli.jpg
-    caption: Solidarisch geht anders / Kampagnen Webseite / 2021
-    scale: 40
-  - last_project: false
     caption: Seebrücke / Webseite / 2021
     scale: 45
     image: design-seebruecke-1.jpg
