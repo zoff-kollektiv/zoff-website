@@ -60,4 +60,8 @@ projects:
     caption: Aircrew Alliance / Fotoshooting / 2019
     scale: 45
     image: shooting-superfly-7442.jpg
+  - last_project: false
+    caption: War is war / Book presentation in St Petersburg / 2017
+    scale: 30
+    image: process-wariswar.jpg
 ---
