@@ -32,6 +32,12 @@ languages:
 
       \
 
+      **Wir sind mehr als nur wir.** Wir sind Teil mehrerer Netzwerke und Teil einer Bewegung, die die ganze Bäckerei will, und zwar sofort. ; )
+
+      \
+
+      \
+
       **kontakt**\
 
       zoff gbr\
@@ -50,13 +56,23 @@ languages:
 
       **ohne die wäre zoff nicht zoff**\
 
-      gustav pursche, tilman miraß, luise menz, sandra méndez\
+      Gustav Pursche, Tilman Miraß, Lause 10
+
+      \
+
+      \
+
+      **sie haben am Zoff-Abenteuer teilgenommen**\
+
+      Luise Menz, Sandra Méndez, Alice Romoli
+
+      \
 
       \
 
       **mitstreiterinnen**\
 
-      sylvain mazas, büro achso, systra, marc wright, jib collective, cai schmitz-weicht ...
+      Sylvain Mazas, Büro Achso, Systra, Marc Wright, jib collective, Cai Schmitz-Weicht, Noa ..., 
 
       \
 
