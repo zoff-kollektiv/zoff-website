@@ -67,5 +67,5 @@ projects:
   - last_project: false
     caption: A – Z / Podium Discussion with Mara Recklies and Sandy Kaltenborn / 2019
     image: process-a-z.jpg
-    scale: 30
+    scale: 25
 ---
