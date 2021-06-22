@@ -65,7 +65,7 @@ projects:
     scale: 40
     image: context-polylux.jpg
   - last_project: false
-    caption: Kampagnen Solidarisch geht anders / 2021
+    caption: Kampagne Solidarisch geht anders / 2021
     scale: 40
     image: context-solidarischgehtanders.jpg
 ---
