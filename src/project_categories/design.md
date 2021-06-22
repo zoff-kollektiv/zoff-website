@@ -90,7 +90,7 @@ projects:
   - last_project: false
     image: d-r-sm-1-430.jpg
     caption: Digital ist real / BFF / 2019
-    scale: 45
+    scale: 40
   - last_project: false
     image: rosa-denkt-sw.jpg
     caption: RS LXMBRG / RLS / 2020
