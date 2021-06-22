@@ -64,4 +64,8 @@ projects:
     caption: War is war / Book presentation in St Petersburg / 2017
     scale: 30
     image: process-wariswar.jpg
+  - last_project: false
+    caption: A – Z / Podium Discussion with Mara Recklies and Sandy Kaltenborn / 2019
+    image: process-a-z.jpg
+    scale: 30
 ---
