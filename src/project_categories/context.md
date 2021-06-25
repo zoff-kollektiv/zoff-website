@@ -72,4 +72,8 @@ projects:
     caption: Banditi e ribelli / Istoreco Reggio Emilia / 2019
     scale: 8
     image: context-banditi-e-ribelli.jpg
+  - last_project: false
+    caption: Luft zum atmen / labournet TV / 2019
+    image: context-labournettv-gog.jpg
+    scale: 35
 ---
