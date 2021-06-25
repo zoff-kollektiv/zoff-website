@@ -2,11 +2,6 @@
 title: Design
 order: 2
 projects:
-  - caption: About United / Plakat Kampagne / 2015-2019
-    project_url: ""
-    scale: 30
-    image: design-aboutunited.jpg
-    last_project: false
   - caption: Analyse & Kritik / Relaunch Webseite / 2020
     project_url: https://www.akweb.de/
     scale: 45
