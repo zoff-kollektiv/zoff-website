@@ -64,4 +64,8 @@ projects:
     caption: A – Z / Podium Discussion / 2019
     image: process-a-z.jpg
     scale: 25
+  - last_project: false
+    caption: Luft zum atmen / labournet TV / 2019
+    scale: 35
+    image: context-labournettv-gog.jpg
 ---
