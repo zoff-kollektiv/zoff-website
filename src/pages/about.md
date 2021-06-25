@@ -8,13 +8,25 @@ languages:
 
       \
 
+      \
+
+      \
+
       **wir arbeiten an** der Schnittstelle von Design, Kunst und Politik. 
 
       \
 
       \
 
+      \
+
+      \
+
       **wir stehen für** die Demokratisierung der Demokratie, für die Gesellschaft der Vielen, für eine basisdemokratische, intersektionale feministische, antirassistische, ökologische und soziale Politik.
+
+      \
+
+      \
 
       \
 
