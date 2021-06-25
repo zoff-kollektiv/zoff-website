@@ -68,4 +68,8 @@ projects:
     caption: Luft zum atmen / labournet TV / 2019
     scale: 35
     image: context-labournettv-gog.jpg
+  - last_project: false
+    caption: HTW Berlin Vorlesung / 2019
+    scale: 30
+    image: process-htw.jpg
 ---
