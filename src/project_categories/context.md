@@ -70,7 +70,7 @@ projects:
     image: context-solidarischgehtanders.jpg
   - last_project: false
     caption: Banditi e ribelli / Istoreco Reggio Emilia / 2019
-    scale: 8
+    scale: 35
     image: context-banditi-e-ribelli.jpg
   - last_project: false
     caption: Luft zum atmen / labournet TV / 2019
