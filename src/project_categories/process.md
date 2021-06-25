@@ -57,15 +57,11 @@ projects:
     scale: 30
     image: zoff-missy-2.jpg
   - last_project: false
-    caption: Aircrew Alliance / Fotoshooting / 2019
-    scale: 45
-    image: shooting-superfly-7442.jpg
-  - last_project: false
     caption: War is war / Book presentation in St Petersburg / 2017
     scale: 30
     image: process-wariswar.jpg
   - last_project: false
-    caption: A – Z / Podium Discussion with Mara Recklies and Sandy Kaltenborn / 2019
+    caption: A – Z / Podium Discussion / 2019
     image: process-a-z.jpg
     scale: 25
 ---
