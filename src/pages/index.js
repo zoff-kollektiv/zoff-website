@@ -100,6 +100,12 @@ const IndexPage = ({ data }) => {
     }
   }
 
+  const PreloadedImage = () => {
+    // preload next image with zero opacity in order to minimize load time after click
+    const nextImage = remainingProjects[remainingProjects.length-1].image;
+    return <Image className='precache-image' name={nextImage} />
+  }
+
   const Projects = () => {
     return displayedProjects
       .map((project, index) => {
@@ -119,6 +125,7 @@ const IndexPage = ({ data }) => {
           >
             <div className="project-inner-container">
               <div className="image-container">
+                <PreloadedImage />
                 <Image
                   className={isFirst && notLast ? "first-image" : ""}
                   name={project.image}

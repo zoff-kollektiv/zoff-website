@@ -23,9 +23,9 @@ h2{
 }
 
 figcaption {
-  margin-top: 0.6vw;
-  margin-bottom: 0.6vw;
-  line-height: 180%;
+  margin-top: 8px;
+  margin-bottom: 5px;
+  line-height: 150%;
 }
 
 .projects-container {
@@ -55,6 +55,12 @@ figcaption {
   filter: brightness(60%);
 }
 
+.project-container .precache-image {
+  /* This is only to preload the image */
+  opacity: 0;
+  height: 1px;
+}
+
 .image-container {
   width: 100%;
   height: 100%;
@@ -72,7 +78,7 @@ figcaption {
 
 .about-link {
   position: fixed;
-  bottom: 0;
+  bottom: 10px;
   right: 1vw;
 }
 
