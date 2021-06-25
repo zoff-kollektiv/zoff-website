@@ -83,11 +83,6 @@ projects:
     caption: Migration Control / Taz / 2017
     scale: 50
   - last_project: false
-    image: design-migration-control-2.png
-    project_url: ""
-    scale: 50
-    caption: Migration Control / Taz / 2017
-  - last_project: false
     image: d-r-sm-1-430.jpg
     caption: Digital ist real / BFF / 2019
     scale: 40
