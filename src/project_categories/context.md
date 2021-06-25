@@ -68,4 +68,8 @@ projects:
     caption: Kampagne Solidarisch geht anders / 2021
     scale: 40
     image: context-solidarischgehtanders.jpg
+  - last_project: false
+    caption: Banditi e ribelli / Istoreco Reggio Emilia / 2019
+    scale: 8
+    image: context-banditi-e-ribelli.jpg
 ---
