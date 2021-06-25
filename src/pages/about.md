@@ -20,25 +20,17 @@ languages:
 
       \
 
-      **wir glauben an** eine visuelle Kommunikation, die mit visuellen Stereotypen bricht und die Dekolonisierung von Bildern ermöglicht. Eine Kommunikation, die die Hegemonie der Sprecherposition in Fragen stellt.\
+      **wir glauben an** eine visuelle Kommunikation, die mit visuellen Stereotypen bricht und die Dekolonisierung von Bildern ermöglicht.
 
-      Eine Kommunikation, die einen Perspektivenwechsel bietet und eine Verschiebung der Machtverhältnisse ermöglicht.\
+      Eine Kommunikation, die die Hegemonie der Sprecherposition in Fragen stellt.
 
-      Eine Kommunikation, die eher zum Nachdenken als zum Überzeugen anregt.\
-
-      Eine Kommunikation, die sich sozialer Determinismen und visueller Codierung bewusst ist und versucht eher inklusive Räume der sozialen Interaktion zu gestalten als eine exklusive Ästhetisierung des Diskurses anzustreben.\
-
-      Eine Kommunikation, die Empowerment und konkrete politische Wirksamkeit ermöglicht. 
+      Eine Kommunikation, die einen Perspektivenwechsel bietet und eine Verschiebung der Machtverhältnisse ermöglicht.Eine Kommunikation, die eher zum Nachdenken als zum Überzeugen anregt.Eine Kommunikation, die sich sozialer Determinismen und visueller Codierung bewusst ist und versucht eher inklusive Räume der sozialen Interaktion zu gestalten als eine exklusive Ästhetisierung des Diskurses anzustreben.Eine Kommunikation, die Empowerment und konkrete politische Wirksamkeit ermöglicht. 
 
       \
 
       \
 
-      **wir entwickeln** Kommunikationsstrategien, konzipieren, managen und produzieren Kampagnen, Visuelle Systeme und verschiedene digitale Formate (bspw. digital storytelling) für politische, soziale, kulturelle und Bildungsprojekte.\
-
-      Wir entwickeln partizipative Prozesse, die Räume für andere Narrative bieten.\
-
-      Wir arbeiten gern prozessorientiert und legen viel Wert auf eine ein kontinuierlichen und regelmäßigen Austausch während des ganze Projektes.
+      **wir entwickeln** Kommunikationsstrategien, konzipieren, managen und produzieren Kampagnen, Visuelle Systeme und verschiedene digitale Formate (bspw. digital storytelling) für politische, soziale, kulturelle und Bildungsprojekte. Wir entwickeln partizipative Prozesse, die Räume für andere Narrative bieten. Wir arbeiten gern prozessorientiert und legen viel Wert auf eine ein kontinuierlichen und regelmäßigen Austausch während des ganze Projektes.
 
       \
 
