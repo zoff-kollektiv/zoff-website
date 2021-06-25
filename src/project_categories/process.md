@@ -53,10 +53,6 @@ projects:
     scale: 30
     image: zoff-missy-1.jpg
   - last_project: false
-    caption: Zoff in der Missy / Interview / 2021
-    scale: 30
-    image: zoff-missy-2.jpg
-  - last_project: false
     caption: War is war / Book presentation in St Petersburg / 2017
     scale: 30
     image: process-wariswar.jpg
