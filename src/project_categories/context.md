@@ -76,4 +76,8 @@ projects:
     image: context-aboutunited-demo.jpeg
     caption: Lause bleibt / Protestant goes Mietendemo / 2019
     scale: 30
+  - last_project: false
+    image: context-rosa-banner.jpg
+    caption: RS LXMBRG / Banner / 2021
+    scale: 30
 ---
