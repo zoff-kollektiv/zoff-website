@@ -68,4 +68,8 @@ projects:
     caption: HTW Berlin Vorlesung / 2019
     scale: 30
     image: process-htw.jpg
+  - last_project: false
+    caption: Digital ist real / All women* dream team
+    scale: 10
+    image: prozess-bff-digital.jpeg
 ---
