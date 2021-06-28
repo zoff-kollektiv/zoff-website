@@ -88,4 +88,8 @@ projects:
     image: context-bmv.jpg
     caption: Mietendeckel Jetzt / Fails ;-) / 2020
     scale: 30
+  - last_project: false
+    image: context-racial-profling.jpg
+    caption: Racial Profiling / Buch / 2019
+    scale: 50
 ---
