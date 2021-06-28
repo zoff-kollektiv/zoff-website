@@ -72,4 +72,8 @@ projects:
     caption: Banditi e ribelli / Istoreco Reggio Emilia / 2019
     scale: 35
     image: context-banditi-e-ribelli.jpg
+  - last_project: false
+    image: context-aboutunited-demo.jpeg
+    caption: Lause bleibt / Protestant goes Mietendemo / 2019
+    scale: 30
 ---
