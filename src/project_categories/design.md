@@ -97,4 +97,8 @@ projects:
     image: design-berlinerzustaende-04.png
     caption: Berliner Zustände / apabiz & Mbr / 2019
     scale: 30
+  - last_project: false
+    image: rosa-entscheidungen-3-8.jpg
+    caption: RS LXMBRG / Installieren Post / 2021
+    scale: 50
 ---
