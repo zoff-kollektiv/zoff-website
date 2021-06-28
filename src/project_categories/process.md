@@ -70,6 +70,6 @@ projects:
     image: process-htw.jpg
   - last_project: false
     caption: Digital ist real / All women* dream team
-    scale: 10
+    scale: 45
     image: prozess-bff-digital.jpeg
 ---
