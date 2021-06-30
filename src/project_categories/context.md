@@ -77,10 +77,6 @@ projects:
     caption: Lause bleibt / Protestant goes Mietendemo / 2019
     scale: 30
   - last_project: false
-    image: context-rosa-banner.jpg
-    caption: RS LXMBRG / Banner / 2021
-    scale: 30
-  - last_project: false
     image: context-solid.png
     caption: Linksjugend / Designsystem / 2020
     scale: 30
