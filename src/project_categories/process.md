@@ -74,7 +74,7 @@ projects:
     scale: 30
   - last_project: false
     image: process-htw-seminar.jpg
-    caption: HTW Seminar / 2019
+    caption: HTW Berlin Seminar / 2019
     scale: 35
   - last_project: false
     image: process-linksjugendsolid.jpg
