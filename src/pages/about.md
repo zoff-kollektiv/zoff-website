@@ -2,7 +2,7 @@
 languages:
   - language: de
     body: >-
-      **Wir sind zoff**, ein Kollektiv für visuelle Kommunikation.
+      **Wir sind Zoff**, ein Kollektiv für visuelle Kommunikation.
 
       \
 
