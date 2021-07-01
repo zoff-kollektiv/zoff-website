@@ -12,31 +12,27 @@ languages:
 
       \
 
-      \
-
-      **wir stehen für** die Demokratisierung der Demokratie, für die Gesellschaft der Vielen, für eine basisdemokratische, intersektionale feministische, antirassistische, ökologische und soziale Politik.
+      **wir setzen uns ein** für die Gesellschaft der Vielen, für die Demokratisierung der Demokratie, für eine emanzipatorische Politik.
 
       \
 
-      \
-
-      **wir glauben an** eine visuelle Kommunikation, die mit visuellen Stereotypen bricht und die Dekolonisierung von Bildern ermöglicht.
-
-      Eine Kommunikation, die die Hegemonie der Sprecherposition in Fragen stellt.
-
-      Eine Kommunikation, die einen Perspektivenwechsel bietet und eine Verschiebung der Machtverhältnisse ermöglicht.Eine Kommunikation, die eher zum Nachdenken als zum Überzeugen anregt.Eine Kommunikation, die sich sozialer Determinismen und visueller Codierung bewusst ist und versucht eher inklusive Räume der sozialen Interaktion zu gestalten als eine exklusive Ästhetisierung des Diskurses anzustreben.Eine Kommunikation, die Empowerment und konkrete politische Wirksamkeit ermöglicht. 
+      **wir glauben an** eine visuelle Kommunikation, die mit Stereotypen bricht, die  die Dekonstruktion von Bildern vorantreibt. An eine Kommunikation, die einen Perspektivwechsel bietet, und auf eine Verschiebung der Machtverhältnisse zielt. Eine Kommunikation, die eher zum Nachdenken als zum Überzeugen anregt. Eine Kommunikation, die Empowerment und konkrete politische Wirksamkeit ermöglicht.\
 
       \
 
-      \
-
-      **wir entwickeln** Kommunikationsstrategien, konzipieren, managen und produzieren Kampagnen, Visuelle Systeme und verschiedene digitale Formate (bspw. digital storytelling) für politische, soziale, kulturelle und Bildungsprojekte. Wir entwickeln partizipative Prozesse, die Räume für andere Narrative bieten. Wir arbeiten gern prozessorientiert und legen viel Wert auf eine ein kontinuierlichen und regelmäßigen Austausch während des ganze Projektes.
+      **wir plädieren für** eine Kommunikation, die danach fragt, wer spricht. Eine Kommunikation, die sich sozialer Determinismen und visueller Codierung bewusst ist. Eine Kommunikation, die eher inklusive Räume der sozialen Interaktion gestaltet als eine exklusive Ästhetisierung des Diskurses anstrebt.
 
       \
 
+      **wir erarbeiten** Kommunikationsstrategien, konzipieren, managen und produzieren Kampagnen, visuelle Systeme und digitale Tools für politische, soziale, kulturelle und Bildungsprojekte.\
+
+      **\
+
+      Wir entwickeln** partizipative Prozessen, die Räume für andere Narrative bieten. Wir arbeiten gern prozessorientiert und legen viel Wert auf eine ein kontinuierlichen und regelmäßigen Austausch. Kollaboration ist der Kern unserer Arbeit.
+
       \
 
-      **Wir sind mehr als nur wir.** Wir sind Teil mehrerer Netzwerke und Teil einer Bewegung, die die ganze Bäckerei will, und zwar sofort. ; )
+      **Wir sind mehr als nur wir.** Wir sind Teil mehrerer Netzwerke und Teil einer Bewegung.
 
       \
 
