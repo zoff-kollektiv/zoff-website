@@ -81,7 +81,7 @@ projects:
     caption: Linksjugend / Designsystem / 2020
     scale: 30
   - last_project: false
-    image: context-bmv-2-b.jpg
+    image: context-bmv-2.jpg
     caption: Mietendeckel Jetzt / Fails ;-) / 2020
     scale: 30
   - last_project: false
