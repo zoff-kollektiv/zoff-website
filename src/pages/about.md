@@ -52,11 +52,11 @@ languages:
 
       **Kontakt**\
 
-      zoff gbr\
+      Zoff Gbr\
 
-      lausitzerstraße 10\
+      Lausitzerstraße 10\
 
-      aufgang a\
+      Aufgang a\
 
       10999 berlin\
 
