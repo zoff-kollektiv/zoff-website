@@ -96,5 +96,5 @@ projects:
   - last_project: false
     image: rosa-entscheidungen-3-8.jpg
     caption: RS LXMBRG / Installieren Post / 2021
-    scale: 50
+    scale: 35
 ---
