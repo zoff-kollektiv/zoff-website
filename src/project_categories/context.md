@@ -77,7 +77,7 @@ projects:
     caption: Lause bleibt / Protestkit goes Mietendemo / 2019
     scale: 30
   - last_project: false
-    image: context-solid.png
+    image: context-linksjugend-2.jpg
     caption: Linksjugend / Designsystem / 2020
     scale: 30
   - last_project: false
