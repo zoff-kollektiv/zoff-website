@@ -87,7 +87,7 @@ projects:
     scale: 30
   - last_project: false
     image: design-soluch.jpg
-    scale: 45
+    scale: 25
     caption: Goska Soluch / Webseite / 2019
   - last_project: false
     image: design-berlinerzustaende-04.png
