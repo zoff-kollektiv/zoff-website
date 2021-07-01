@@ -20,7 +20,7 @@ languages:
 
       \
 
-      **Wir glauben an** eine visuelle Kommunikation, die mit Stereotypen bricht, die  die Dekonstruktion von Bildern vorantreibt. An eine Kommunikation, die einen Perspektivwechsel bietet, und auf eine Verschiebung der Machtverhältnisse zielt. Eine Kommunikation, die eher zum Nachdenken als zum Überzeugen anregt. Eine Kommunikation, die Empowerment und konkrete politische Wirksamkeit ermöglicht.
+      **Wir glauben an** eine visuelle Kommunikation, die mit Stereotypen bricht, die die Dekonstruktion von Bildern vorantreibt. An eine Kommunikation, die einen Perspektivwechsel bietet, und auf eine Verschiebung der Machtverhältnisse zielt. Eine Kommunikation, die eher zum Nachdenken als zum Überzeugen anregt. Eine Kommunikation, die Empowerment und konkrete politische Wirksamkeit ermöglicht.
 
       \
 
