@@ -15,7 +15,7 @@ projects:
   - last_project: false
     caption: Linksjugend ['solid] / CD & Sharepicgenerator / 2020
     scale: 30
-    image: design-linkjugendsolid.gif
+    image: ljs_sharepics.gif
   - last_project: false
     image: design-aircrewalliance.jpg
     caption: Aircrew Alliance / ver.di / 2020
