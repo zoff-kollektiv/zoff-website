@@ -22,7 +22,7 @@ projects:
     scale: 35
   - last_project: false
     image: context-jetzterstrecht.jpg
-    caption: Jetzt erst recht / Posterserie / 2019
+    caption: Jetzt erst recht / Posterserie / 2020
     scale: 40
   - last_project: false
     image: context-wewillrise.jpg
@@ -92,4 +92,8 @@ projects:
     image: context-rosa-rls.jpg
     caption: RS LXMBRG / RLS / 2021
     scale: 40
+  - last_project: false
+    caption: Jetzt  erst recht / Palimpsest / 2020
+    image: context-jetzterstrecht2.jpg
+    scale: 35
 ---
