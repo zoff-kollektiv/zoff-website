@@ -101,4 +101,8 @@ projects:
     caption: RS LXMBRG / Instagram Post / 2021
     image: design-rosa-3.jpg
     scale: 50
+  - last_project: false
+    caption: Kein Schlussstrich! / Designsystem / 2021
+    image: design-kein.jpg
+    scale: 30
 ---
