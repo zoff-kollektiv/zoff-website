@@ -72,4 +72,20 @@ projects:
     caption: Digital ist real / All women* dream team
     scale: 45
     image: prozess-bff-digital.jpeg
+  - last_project: false
+    image: process-zoom.jpg
+    caption: zoomen zoomen zoomen / Kollektiv treffen / 2020
+    scale: 30
+  - last_project: false
+    image: process-htw-seminar.jpg
+    caption: HTW Seminar / 2019
+    scale: 35
+  - last_project: false
+    image: process-linksjugendsolid.jpg
+    caption: Linksjugend ['solid] / Workshop Vorbereitung / 2020
+    scale: 40
+  - last_project: false
+    image: process-climatejustice.jpg
+    caption: Climate Justice / Workshop / 2019
+    scale: 30
 ---
