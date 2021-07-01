@@ -54,7 +54,7 @@ languages:
 
       \
 
-      **ohne die wäre zoff nicht zoff**\
+      **ohne sie wäre zoff nicht zoff**\
 
       Gustav Pursche, Tilman Miraß, Lause 10
 
@@ -70,9 +70,9 @@ languages:
 
       \
 
-      **mitstreiterinnen**\
+      **mitstreiter*innen**\
 
-      Sylvain Mazas, Büro Achso, Systra, Marc Wright, jib collective, Cai Schmitz-Weicht, Noa ..., 
+      Sylvain Mazas, Büro Achso, Systra, Marc Wright, jib collective, Cai Schmitz-Weicht, Noa Snir
 
       \
 
