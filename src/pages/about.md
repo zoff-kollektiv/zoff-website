@@ -96,7 +96,7 @@ languages:
 
       Font: pmn caecilia\
 
-      Fotos: "Kampagne Solidarisch geht anders" Chris Grodotzki / jibcollective, ... ////
+      Fotos: »Kampagne Solidarisch geht anders« Chris Grodotzki / jibcollective, ... ////
 
       \
 
