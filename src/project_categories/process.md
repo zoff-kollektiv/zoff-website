@@ -81,7 +81,7 @@ projects:
     caption: Linksjugend ['solid] / Workshop Vorbereitung / 2020
     scale: 40
   - last_project: false
-    image: process-climatejustice.jpg
+    image: process-climatejustice-2.jpg
     caption: Climate Justice / Workshop / 2019
     scale: 30
 ---
