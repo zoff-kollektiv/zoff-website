@@ -92,9 +92,9 @@ languages:
 
       **Impressum**\
 
-      Coding: [coderat](https://coderat.cc)\
+      Coding: [Coderat](https://coderat.cc)\
 
-      Font: pmn caecilia\
+      Font: Pmn Caecilia\
 
       Fotos: »Kampagne Solidarisch geht anders« Chris Grodotzki / jibcollective, ... ////
 
