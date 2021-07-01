@@ -57,7 +57,7 @@ projects:
     scale: 30
     image: process-wariswar.jpg
   - last_project: false
-    caption: A – Z / Podium Discussion / 2019
+    caption: A – Z / Podiumsdiskussion / 2019
     image: process-a-z.jpg
     scale: 25
   - last_project: false
