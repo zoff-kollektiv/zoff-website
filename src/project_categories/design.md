@@ -97,4 +97,8 @@ projects:
     image: rosa-entscheidungen-3-8.jpg
     caption: RS LXMBRG / Instagram Post / 2021
     scale: 35
+  - last_project: false
+    caption: RS LXMBRG / Instagram Post / 2021
+    image: design-rosa-3.jpg
+    scale: 50
 ---
