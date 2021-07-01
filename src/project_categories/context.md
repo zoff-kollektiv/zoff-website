@@ -78,7 +78,7 @@ projects:
     scale: 30
   - last_project: false
     image: context-linksjugend-2.jpg
-    caption: Linksjugend / Designsystem / 2020
+    caption: Linksjugend ['solid] / Designsystem / 2020
     scale: 30
   - last_project: false
     image: context-bmv-2.jpg
