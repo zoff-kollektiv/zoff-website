@@ -104,5 +104,5 @@ projects:
   - last_project: false
     caption: Kein Schlussstrich! / Designsystem / 2021
     image: design-kein.jpg
-    scale: 30
+    scale: 25
 ---
