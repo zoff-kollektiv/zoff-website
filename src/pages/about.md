@@ -66,7 +66,7 @@ languages:
 
       \
 
-      **Ohne sie wäre zoff nicht zoff**\
+      **Ohne sie wäre Zoff nicht Zoff**\
 
       Gustav Pursche, Tilman Miraß, Lause 10
 
