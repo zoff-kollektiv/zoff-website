@@ -74,7 +74,7 @@ projects:
     image: context-banditi-e-ribelli.jpg
   - last_project: false
     image: context-aboutunited-demo.jpeg
-    caption: Lause bleibt / Protestant goes Mietendemo / 2019
+    caption: Lause bleibt / Protestkit goes Mietendemo / 2019
     scale: 30
   - last_project: false
     image: context-solid.png
