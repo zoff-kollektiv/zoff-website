@@ -317,7 +317,7 @@ languages:
       »Kampagne Solidarisch geht anders«: Chris Grodotzki - [jibcollective](https://jib-collective.net),\
 
       »Mietendemo / Lause Lebt«: [Umbruch Bildarchiv](https://umbruch-bildarchiv.org)
-    privacy: " "
+    privacy: " A"
   - language: fr
     body: >-
       zoff est un collectif spécialisé dans la communication visuelle.
