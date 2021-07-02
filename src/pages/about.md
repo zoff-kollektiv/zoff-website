@@ -221,19 +221,55 @@ languages:
       Erstellt mit Datenschutz-Generator.de von Dr. jur. Thomas Schwenke
   - language: en
     body: >-
-      zoff is a collective dedicated to visual communication.
+      **We are Zoff**, a collective for visual communication.
 
+      \
 
-      we work at the intersection of design, art and politics. together we conceptualise, design and develop websites, campaigns, publications and exhibitions.
+      \
 
+      **We work at** the intersection between design, art and politics.  
 
-      we are interested in the democratisation of democracy, the social and political impact of design. we want to empower, intervene or tell with and through projects we work on.
+      \
 
+      \
 
-      we develop visual communication tools in political, social, cultural and educational contexts.
+      **We stand up for** a plural society, for the democratization of democracy and for an emancipatory policy. 
 
+      \
 
-      **contact**\
+      \
+
+      **We believe in** a visual communication that breaks down stereotypes, and drives the deconstruction of images. A communication that offers a change of perspective and aims to shift the balance of power. A communication that rather stimulates thoughts more than convince. A communication that enables empowerment and practical political effectiveness.
+
+      \
+
+      \
+
+      **We advocate** a communication that asks who is speaking. A communication that is aware of social determinisms and visual coding. A communication that designs inclusive spaces for social interaction rather than striving for an exclusive aestheticization of discourses. 
+
+      \
+
+      \
+
+      **We elaborate** communication strategies, concepts, manage and produce campaigns, visual systems and digital tools for political, social, cultural and educational projects. 
+
+      \
+
+      \
+
+      **We develop** participative processes that offer space for alternative narratives. Our work is process oriented, and we emphasize on a continuous exchange within the work process. Collaboration is a core element of our work. 
+
+      \
+
+      \
+
+      We are part of several networks and movements. **We are more than just us**.
+
+      \
+
+      \
+
+      **contact**
 
       zoff gbr\
 
@@ -248,13 +284,40 @@ languages:
 
       **without them, zoff would not be zoff**\
 
-      gustav pursche, tilman miraß, luise menz, sandra méndez
+      [Gustav Pursche](https://gu.stav.dev), Tilman Miraß, [Lause 10](https://lause10.de)
 
+      \
 
-      **fellow ...**\
+      \
 
-      sylvain mazas, büro achso, systra, marc wright
-    privacy: Here comes your privacy statement
+      **They participate or have participated in the Zoff adventure.**\
+
+      Luise Menz, [Sandra Méndez](http://www.sandramendez.com), Nina Los
+
+      \
+
+      \
+
+      **they work often with us**\
+
+      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Cai Schmitz-Weicht](https://freizeile.de), [Noa Snir](https://noasnir.com), [Verena Brüning](https://www.verenabruening.de)
+
+      \
+
+      \
+
+      **Info**\
+
+      Coding: [Coderat](https://coderat.cc)\
+
+      Font: PMN Caecilia\
+
+      All documentation photos Zoff Kollektiv except:\
+
+      »Kampagne Solidarisch geht anders«: Chris Grodotzki - [jibcollective](https://jib-collective.net),\
+
+      »Mietendemo / Lause Lebt«: [Umbruch Bildarchiv](https://umbruch-bildarchiv.org)
+    privacy: " "
   - language: fr
     body: >-
       zoff est un collectif spécialisé dans la communication visuelle.
