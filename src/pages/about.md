@@ -171,37 +171,37 @@ languages:
 
       \
 
-      **We work at** the intersection between design, art and politics.  
+      **We work at** the intersection of design, art and politics.   
 
       \
 
       \
 
-      **We stand up for** a plural society, for the democratization of democracy and for an emancipatory policy. 
+      **We stand up for** for a diverse and open society, the democratization of democracy, and emancipatory politics.
 
       \
 
       \
 
-      **We believe in** a visual communication that breaks down stereotypes, and drives the deconstruction of images. A communication that offers a change of perspective and aims to shift the balance of power. A communication that rather stimulates thoughts more than convince. A communication that enables empowerment and practical political effectiveness.
+      **We believe in** visual communication that breaks with stereotypes and drives the deconstruction of images. A form of communication that offers a change of perspective and aims to change power relations. Communication that seeks to stimulate thoughts rather than merely convince. Communication that empowers and allows for practical political effects.
 
       \
 
       \
 
-      **We advocate** a communication that asks who is speaking. A communication that is aware of social determinisms and visual coding. A communication that designs inclusive spaces for social interaction rather than striving for an exclusive aestheticization of discourses. 
+      **We advocate** for a form of communication that asks who speaks. Communication that is conscious of social determinism and visual coding. Communication that creates inclusive spaces of social interaction instead of exclusive and aestheticized discourses. 
 
       \
 
       \
 
-      **We elaborate** communication strategies, concepts, manage and produce campaigns, visual systems and digital tools for political, social, cultural and educational projects. 
+      **We create** communication strategies and concepts, we manage and produce campaigns, and we develop visual systems and digital tools for political, social, cultural and educational projects. 
 
       \
 
       \
 
-      **We develop** participative processes that offer space for alternative narratives. Our work is process oriented, and we emphasize on a continuous exchange within the work process. Collaboration is a core element of our work. 
+      **We develop** participatory processes that offer space for alternative narratives. Our work is process oriented, and we value continuous exchanges. Collaboration is the core element of our work.  
 
       \
 
@@ -213,20 +213,20 @@ languages:
 
       \
 
-      **contact**
+      **Contact**
 
       zoff gbr\
 
-      lausitzerstraße 10\
+      Lausitzerstraße 10\
 
-      aufgang a\
+      Aufgang a\
 
-      10999 berlin\
+      10999 Berlin\
 
       [kontakt@zoff-kollektiv.net](<mailto: kontakt@zoff-kollektiv.net>)
 
 
-      **without them, zoff would not be zoff**\
+      **Without them, zoff would not be zoff**\
 
       [Gustav Pursche](https://gu.stav.dev), Tilman Miraß, [Lause 10](https://lause10.de)
 
@@ -242,7 +242,7 @@ languages:
 
       \
 
-      **they work often with us**\
+      **They work often with us**\
 
       [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Cai Schmitz-Weicht](https://freizeile.de), [Noa Snir](https://noasnir.com), [Verena Brüning](https://www.verenabruening.de)
 
