@@ -317,20 +317,128 @@ languages:
       »Kampagne Solidarisch geht anders«: Chris Grodotzki - [jibcollective](https://jib-collective.net),\
 
       »Mietendemo / Lause Lebt«: [Umbruch Bildarchiv](https://umbruch-bildarchiv.org)
-    privacy: " A"
+    privacy: >-
+      Stand: 1. Juli 2021
+
+      \
+
+      \
+
+      Inhaltsübersicht
+
+
+      1. Verantwortliche
+
+      2. Übersicht der Verarbeitungen
+
+      3. Maßgebliche Rechtsgrundlagen
+
+      4. Sicherheitsmaßnahmen
+         \
+         \
+      5. Verantwortliche
+         \
+         \
+         Zoff GbR\
+         Lausitzer Straße 10\
+         10999 Berlin\
+         \
+         \
+         Vertreten durch
+         Susanne Beer, Laura Maikowski, Pierre Maite
+         \
+         \
+         Kontakt
+         E-Mail: kontakt@zoff-kollektiv.net
+         \
+         \
+      6. Übersicht der Verarbeitungen
+         \
+         \
+         Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
+         \
+         \
+         Arten der verarbeiteten Daten
+
+      * Inhaltsdaten (z.B. Texteingaben, Fotografien, Videos).
+
+      * Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
+
+      * Kategorien betroffener Personen
+
+      * Nutzer:innen (z.B. Webseitenbesucher:innen, Nutzer:innen von Onlinediensten).
+        \
+        \
+
+      3. Maßgebliche Rechtsgrundlagen
+         \
+         \
+         Im Folgenden teilen wir die Rechtsgrundlagen der Datenschutzgrundverordnung (DSGVO), auf deren Basis wir die personenbezogenen Daten verarbeiten, mit. Bitte beachten Sie, dass zusätzlich zu den Regelungen der DSGVO die nationalen Datenschutzvorgaben in Ihrem bzw. unserem Wohn- und Sitzland gelten können.
+         Dein Klickverhalten oder Eingaben (z.B. Angaben zu deinem Einkommen im Kapitel Leistbarkeit) werden nicht gespeichert. Unser Hoster erhebt jedoch Zugriffsstatistiken und speichert deshalb für maximal 30 Tage deine IP Adresse.
+         Nationale Datenschutzregelungen in Deutschland: Zusätzlich zu den Datenschutzregelungen der Datenschutz-Grundverordnung gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG). Das BDSG enthält insbesondere Spezialregelungen zum Recht auf Auskunft, zum Recht auf Löschung, zum Widerspruchsrecht, zur Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung für andere Zwecke und zur Übermittlung sowie automatisierten Entscheidungsfindung im Einzelfall einschließlich Profiling. Des Weiteren regelt es die Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses (§ 26 BDSG), insbesondere im Hinblick auf die Begründung, Durchführung oder Beendigung von Beschäftigungsverhältnissen sowie die Einwilligung von Beschäftigten. Ferner können Landesdatenschutzgesetze der einzelnen Bundesländer zur Anwendung gelangen.
+         \
+         \
+      4. Sicherheitsmaßnahmen
+         \
+         \
+         Wir treffen nach Maßgabe der gesetzlichen Vorgaben unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmaßes der Bedrohung der Rechte und Freiheiten natürlicher Personen geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
+         Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen und elektronischen Zugangs zu den Daten als auch des sie betreffenden Zugriffs, der Eingabe, der Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, die Löschung von Daten und Reaktionen auf die Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung bzw. Auswahl von Hardware, Software sowie Verfahren entsprechend dem Prinzip des Datenschutzes, durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
+         \
+         \
+         SSL-Verschlüsselung (https)
+         Um Deine via unser Online-Angebot übermittelten Daten zu schützen, nutzen wir eine SSL-Verschlüsselung. Sie erkennen derart verschlüsselte Verbindungen an dem Präfix https:// in der Adresszeile Ihres Browsers.
+         \
+         \
+         Erstellt mit Datenschutz-Generator.de von Dr. jur. Thomas Schwenke
   - language: fr
     body: >-
-      zoff est un collectif spécialisé dans la communication visuelle.
+      **Nous sommes Zoff**, un collectif dédié à la communication visuelle. 
 
+      \
 
-      nous travaillons à l'intersection du design, de l'art et de la politique. ensemble, nous conceptualisons, concevons et développons des sites web, des campagnes, des publications et des expositions.
+      \
 
+      **Nous travaillons à** l'intersection du design, de l'art et de la politique.  
 
-      nous nous intéressons à la démocratisation de la démocratie, à l'impact social et politique du design. nous voulons donner du pouvoir, intervenir ou raconter avec et à travers les projets sur lesquels nous travaillons.
+      \
 
+      \
 
-      nous développons des outils de communication visuelle dans des contextes politiques, sociaux, culturels et éducatifs.
+      **Nous nous engageons pour** une société de la diversité, pour la démocratisation de la démocratie, pour une politique émancipatrice. 
 
+      \
+
+      \
+
+      **Nous nous réclamons** d'une communication visuelle qui rompt avec les stéréotypes, qui favorise la déconstruction des images. Une communication qui offre un changement de perspective, et vise à modifier les relations de pouvoir. Une communication qui encourage la réflexion plutôt que la persuasion. Une communication qui permet l'autonomisation et propose des changements politiques concrets. 
+
+      \
+
+      \
+
+      **Nous revendiquons** une communication qui remet en question l’hégémonie de la position du·de la locuteur·trice. Une communication consciente des déterminismes sociaux et des codes visuels. Une communication plus soucieuse de construire des interactions inclusives que d'esthétiser les discours. 
+
+      \
+
+      \
+
+      **Nous élaborons** des stratégies de communication, concevons, gérons et produisons des campagnes, des systèmes visuels et des outils numériques pour des projets politiques, sociaux, culturels et éducatifs. 
+
+      \
+
+      \
+
+      **Nous développons** des processus participatifs qui proposent d'autres récits. Nous axons notre méthodologie de travail sur une planification adaptative, un développement évolutif et des réponses flexibles au changement. La collaboration étant au cœur de notre travail, nous attachons une grande importance à un échange continu lors du développement des projets. 
+
+      \
+
+      \
+
+      Nous faisons partie de plusieurs réseaux et d'une multitude de mouvements. **Nous sommes plus nombreux que nous-mêmes**. 
+
+      \
+
+      \
 
       **contact**\
 
@@ -345,8 +453,112 @@ languages:
       [kontakt@zoff-kollektiv.net](<mailto: kontakt@zoff-kollektiv.net>)
 
 
-      **sans eux, zoff ne serait pas zoff**\
+      **Sans eux Zoff ne serait pas Zoff**\
 
-      gustav pursche, tilman miraß, luise menz, sandra méndez
-    privacy: Here comes your privacy statement
+      [Gustav Pursche](https://gu.stav.dev), Tilman Miraß, [Lause 10](https://lause10.de)
+
+      \
+
+      \
+
+      **Elles participent ou ont participé à l'aventure Zoff**\
+
+      Luise Menz, [Sandra Méndez](http://www.sandramendez.com), Nina Los
+
+      \
+
+      \
+
+      **Collaborat·rices·eurs régulier·e·s**\
+
+      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Cai Schmitz-Weicht](https://freizeile.de), [Noa Snir](https://noasnir.com), [Verena Brüning](https://www.verenabruening.de)
+
+      \
+
+      \
+
+      **Informations**\
+
+      Coding: [Coderat](https://coderat.cc)\
+
+      Font: PMN Caecilia\
+
+      Les photos de documentation ont toutes été prises par Zoff, sauf :\
+
+      »Kampagne Solidarisch geht anders«: Chris Grodotzki - [jibcollective](https://jib-collective.net),\
+
+      »Mietendemo / Lause Lebt«: [Umbruch Bildarchiv](https://umbruch-bildarchiv.org)
+    privacy: >-
+      Stand: 1. Juli 2021
+
+      \
+
+      \
+
+      Inhaltsübersicht
+
+
+      1. Verantwortliche
+
+      2. Übersicht der Verarbeitungen
+
+      3. Maßgebliche Rechtsgrundlagen
+
+      4. Sicherheitsmaßnahmen
+         \
+         \
+      5. Verantwortliche
+         \
+         \
+         Zoff GbR\
+         Lausitzer Straße 10\
+         10999 Berlin\
+         \
+         \
+         Vertreten durch
+         Susanne Beer, Laura Maikowski, Pierre Maite
+         \
+         \
+         Kontakt
+         E-Mail: kontakt@zoff-kollektiv.net
+         \
+         \
+      6. Übersicht der Verarbeitungen
+         \
+         \
+         Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
+         \
+         \
+         Arten der verarbeiteten Daten
+
+      * Inhaltsdaten (z.B. Texteingaben, Fotografien, Videos).
+
+      * Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
+
+      * Kategorien betroffener Personen
+
+      * Nutzer:innen (z.B. Webseitenbesucher:innen, Nutzer:innen von Onlinediensten).
+        \
+        \
+
+      3. Maßgebliche Rechtsgrundlagen
+         \
+         \
+         Im Folgenden teilen wir die Rechtsgrundlagen der Datenschutzgrundverordnung (DSGVO), auf deren Basis wir die personenbezogenen Daten verarbeiten, mit. Bitte beachten Sie, dass zusätzlich zu den Regelungen der DSGVO die nationalen Datenschutzvorgaben in Ihrem bzw. unserem Wohn- und Sitzland gelten können.
+         Dein Klickverhalten oder Eingaben (z.B. Angaben zu deinem Einkommen im Kapitel Leistbarkeit) werden nicht gespeichert. Unser Hoster erhebt jedoch Zugriffsstatistiken und speichert deshalb für maximal 30 Tage deine IP Adresse.
+         Nationale Datenschutzregelungen in Deutschland: Zusätzlich zu den Datenschutzregelungen der Datenschutz-Grundverordnung gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG). Das BDSG enthält insbesondere Spezialregelungen zum Recht auf Auskunft, zum Recht auf Löschung, zum Widerspruchsrecht, zur Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung für andere Zwecke und zur Übermittlung sowie automatisierten Entscheidungsfindung im Einzelfall einschließlich Profiling. Des Weiteren regelt es die Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses (§ 26 BDSG), insbesondere im Hinblick auf die Begründung, Durchführung oder Beendigung von Beschäftigungsverhältnissen sowie die Einwilligung von Beschäftigten. Ferner können Landesdatenschutzgesetze der einzelnen Bundesländer zur Anwendung gelangen.
+         \
+         \
+      4. Sicherheitsmaßnahmen
+         \
+         \
+         Wir treffen nach Maßgabe der gesetzlichen Vorgaben unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmaßes der Bedrohung der Rechte und Freiheiten natürlicher Personen geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
+         Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen und elektronischen Zugangs zu den Daten als auch des sie betreffenden Zugriffs, der Eingabe, der Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, die Löschung von Daten und Reaktionen auf die Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung bzw. Auswahl von Hardware, Software sowie Verfahren entsprechend dem Prinzip des Datenschutzes, durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
+         \
+         \
+         SSL-Verschlüsselung (https)
+         Um Deine via unser Online-Angebot übermittelten Daten zu schützen, nutzen wir eine SSL-Verschlüsselung. Sie erkennen derart verschlüsselte Verbindungen an dem Präfix https:// in der Adresszeile Ihres Browsers.
+         \
+         \
+         Erstellt mit Datenschutz-Generator.de von Dr. jur. Thomas Schwenke
 ---
