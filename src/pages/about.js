@@ -7,23 +7,27 @@ import Seo from "../components/seo"
 
 const About = ({ data }) => {
   const [language, setLanguage] = useState("de")
+  const [showPrivacy, setShowPrivacy] = useState(false)
   const content = data.allMarkdownRemark.edges[0].node.frontmatter.languages
 
   const localizedContent = () =>
-    content.find(el => el.language === language).body
+    content.find(el => el.language === language)
+
+  const privacyTitles = () => (
+    { 'de': 'datenschutz', 'en': 'privacy', 'fr': 'protection des données' }[language]
+  )
 
   const LocaleLinks = () =>
     content
       .map(l => l.language)
       .map(lang => (
         <div className="locale-link">
-          <Link
-            to={`#${lang}`}
+          <div
             onClick={() => setLanguage(lang)}
             className={language === lang ? "active" : ""}
           >
             {lang}
-          </Link>
+          </div>
         </div>
       ))
 
@@ -40,7 +44,14 @@ const About = ({ data }) => {
         <div className="locale-links">
           <LocaleLinks />
         </div>
-        <ReactMarkdown className="content">{localizedContent()}</ReactMarkdown>
+
+        <div className="content">
+          <ReactMarkdown>{localizedContent().body}</ReactMarkdown>
+
+          <u style={{ cursor: 'pointer' }} onClick={() => setShowPrivacy(true)}>{privacyTitles()}</u>
+          {!showPrivacy && <span style={{ fontSize: "85%", marginLeft: "7px" }}>▼</span>}
+          {showPrivacy && <ReactMarkdown>{localizedContent().privacy}</ReactMarkdown>}
+        </div>
       </div>
     </Layout>
   )
@@ -56,6 +67,7 @@ export const query = graphql`
             languages {
               language
               body
+              privacy
             }
           }
         }

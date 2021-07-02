@@ -97,12 +97,7 @@ languages:
       Font: Pmn Caecilia\
 
       Fotos: »Kampagne Solidarisch geht anders« Chris Grodotzki / jibcollective, ... ////
-
-      \
-
-      \
-
-      **Datenschutz**
+    privacy: Here comes your privacy statement
   - language: en
     body: >-
       zoff is a collective dedicated to visual communication.
@@ -138,6 +133,7 @@ languages:
       **fellow ...**\
 
       sylvain mazas, büro achso, systra, marc wright
+    privacy: Here comes your privacy statement
   - language: fr
     body: >-
       zoff est un collectif spécialisé dans la communication visuelle.
@@ -168,4 +164,5 @@ languages:
       **sans eux, zoff ne serait pas zoff**\
 
       gustav pursche, tilman miraß, luise menz, sandra méndez
+    privacy: Here comes your privacy statement
 ---
