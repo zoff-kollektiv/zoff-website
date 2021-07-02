@@ -84,7 +84,7 @@ languages:
 
       **Mitstreiter*innen**\
 
-      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Cai Schmitz-Weicht](https://freizeile.de), [Noa Snir](https://noasnir.com), [VerenaBrüning](https://www.verenabruening.de)
+      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Cai Schmitz-Weicht](https://freizeile.de), [Noa Snir](https://noasnir.com), [Verena Brüning](https://www.verenabruening.de)
 
       \
 
