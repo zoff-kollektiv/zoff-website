@@ -58,7 +58,7 @@ languages:
 
       Aufgang a\
 
-      10999 berlin\
+      10999 Berlin\
 
       [kontakt@zoff-kollektiv.net](<mailto: kontakt@zoff-kollektiv.net>)
 
