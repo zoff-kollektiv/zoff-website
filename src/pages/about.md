@@ -221,7 +221,7 @@ languages:
       **fellow ...**\
 
       sylvain mazas, büro achso, systra, marc wright
-    privacy: Here comes your privacy statement
+    privacy: ""
   - language: fr
     body: >-
       zoff est un collectif spécialisé dans la communication visuelle.
@@ -252,5 +252,5 @@ languages:
       **sans eux, zoff ne serait pas zoff**\
 
       gustav pursche, tilman miraß, luise menz, sandra méndez
-    privacy: Here comes your privacy statement
+    privacy: ""
 ---

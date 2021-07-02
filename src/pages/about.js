@@ -31,6 +31,18 @@ const About = ({ data }) => {
         </div>
       ))
 
+  const Privacy = () => {
+    if (localizedContent() && localizedContent().privacy.length > 0) {
+      return <>
+        <u style={{ cursor: 'pointer' }} onClick={() => setShowPrivacy(!showPrivacy)}>{privacyTitles()}</u>
+        <span style={{ fontSize: "85%", marginLeft: "7px" }}>{showPrivacy ? "▲" : "▼"}</span>
+        {showPrivacy && <ReactMarkdown>{localizedContent().privacy}</ReactMarkdown>}
+      </>
+    } else {
+      return ''
+    }
+  }
+
   return (
     <Layout>
       <Seo title="About" />
@@ -48,9 +60,7 @@ const About = ({ data }) => {
         <div className="content">
           <ReactMarkdown>{localizedContent().body}</ReactMarkdown>
 
-          <u style={{ cursor: 'pointer' }} onClick={() => setShowPrivacy(true)}>{privacyTitles()}</u>
-          {!showPrivacy && <span style={{ fontSize: "85%", marginLeft: "7px" }}>▼</span>}
-          {showPrivacy && <ReactMarkdown>{localizedContent().privacy}</ReactMarkdown>}
+          <Privacy />
         </div>
       </div>
     </Layout>
