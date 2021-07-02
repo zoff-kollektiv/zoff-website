@@ -2,31 +2,31 @@
 languages:
   - language: de
     body: >-
-      **Wir sind Zoff**, ein Kollektiv für visuelle Kommunikation.
+      **Wir sind Zoff**, ein Kollektiv für visuelle Kommunikation. 
 
       \
 
       \
 
-      **Wir arbeiten an** der Schnittstelle von Design, Kunst und Politik. 
+      **Wir arbeiten an** der Schnittstelle von Design, Kunst und Politik.  
 
       \
 
       \
 
-      **Wir setzen uns ein** für die Gesellschaft der Vielen, für die Demokratisierung der Demokratie, für eine emanzipatorische Politik.
+      **Wir setzen uns ein** für eine Gesellschaft der Vielen, für die Demokratisierung der Demokratie, für eine emanzipatorische Politik.
 
       \
 
       \
 
-      **Wir glauben an** eine visuelle Kommunikation, die mit Stereotypen bricht, die die Dekonstruktion von Bildern vorantreibt. An eine Kommunikation, die einen Perspektivwechsel bietet, und auf eine Verschiebung der Machtverhältnisse zielt. Eine Kommunikation, die eher zum Nachdenken als zum Überzeugen anregt. Eine Kommunikation, die Empowerment und konkrete politische Wirksamkeit ermöglicht.
+      **Wir glauben an** eine visuelle Kommunikation, die mit Stereotypen bricht, die die Dekonstruktion von Bildern vorantreibt. An eine Kommunikation, die einen Perspektivwechsel bietet, und auf eine Verschiebung der Machtverhältnisse zielt. Eine Kommunikation, die eher zum Nachdenken anregt als überzeugen zu wollen. Eine Kommunikation, die Empowerment und konkrete politische Wirksamkeit ermöglicht.
 
       \
 
       \
 
-      **Wir plädieren für** eine Kommunikation, die danach fragt, wer spricht. Eine Kommunikation, die sich sozialer Determinismen und visueller Codierung bewusst ist. Eine Kommunikation, die eher inklusive Räume der sozialen Interaktion gestaltet als eine exklusive Ästhetisierung des Diskurses anstrebt.
+      **Wir plädieren für** eine Kommunikation, die danach fragt, wer spricht. Eine Kommunikation, die sich sozialer Determinismen und visueller Kodierung bewusst ist. Eine Kommunikation, die eher inklusive Räume der sozialen Interaktion gestaltet als eine exklusive Ästhetisierung des Diskurses anstrebt.
 
       \
 
@@ -38,13 +38,13 @@ languages:
 
       \
 
-      **Wir entwickeln** partizipative Prozessen, die Räume für andere Narrative bieten. Wir arbeiten gern prozessorientiert und legen viel Wert auf eine ein kontinuierlichen und regelmäßigen Austausch. Kollaboration ist der Kern unserer Arbeit.
+      **Wir entwickeln** partizipative Prozessen, die Räume für andere Narrative bieten. Wir arbeiten prozessorientiert und legen viel Wert auf einen kontinuierlichen und regelmäßigen Austausch. Zusammenarbeit ist der Kern unserer Arbeit.
 
       \
 
       \
 
-      **Wir sind mehr als nur wir.** Wir sind Teil mehrerer Netzwerke und Teil einer Bewegung.
+      Wir sind Teil mehrerer Netzwerke und Bewegungen. **Wir sind mehr als nur wir.**
 
       \
 
@@ -68,7 +68,7 @@ languages:
 
       **Ohne sie wäre Zoff nicht Zoff**\
 
-      Gustav Pursche, Tilman Miraß, Lause 10
+      [Gustav Pursche](https://gu.stav.dev), Tilman Miraß, [Lause 10](https://lause10.de)
 
       \
 
