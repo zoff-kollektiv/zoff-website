@@ -74,9 +74,9 @@ languages:
 
       \
 
-      **Sie haben am Zoff-Abenteuer teilgenommen**\
+      **Sie nehmen teil oder haben am Zoff-Abenteuer teilgenommen**\
 
-      Luise Menz, Sandra Méndez, Alice Romoli
+      Luise Menz, [Sandra Méndez](http://www.sandramendez.com), Nina Los
 
       \
 
@@ -84,19 +84,23 @@ languages:
 
       **Mitstreiter*innen**\
 
-      Sylvain Mazas, Büro Achso, Systrar, Marc Wright, jib collective, Cai Schmitz-Weicht, Noa Snir
+      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Cai Schmitz-Weicht](https://freizeile.de), [Noa Snir](https://noasnir.com), [VerenaBrüning](https://www.verenabruening.de)
 
       \
 
       \
 
-      **Impressum**\
+      **Infos**\
 
       Coding: [Coderat](https://coderat.cc)\
 
-      Font: Pmn Caecilia\
+      Font: PMN Caecilia\
 
-      Fotos: »Kampagne Solidarisch geht anders« Chris Grodotzki / jibcollective, ... ////
+      Alle Dokumentationsfotos Zoff Kollektiv außer:\
+
+      »Kampagne Solidarisch geht anders«: Chris Grodotzki - [jibcollective](https://jib-collective.net),\
+
+      »Mietendemo / Lause Lebt«: [Umbruch Bildarchiv](https://umbruch-bildarchiv.org)
     privacy: >-
       Datenschutz
 
