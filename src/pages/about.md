@@ -128,11 +128,11 @@ languages:
 
       \
 
-      Zoff GbR
+      Zoff GbR\
 
-      Lausitzer Straße 10
+      Lausitzer Straße 10\
 
-      10999 Berlin
+      10999 Berlin\
 
       \
 
