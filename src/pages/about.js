@@ -14,7 +14,7 @@ const About = ({ data }) => {
     content.find(el => el.language === language)
 
   const privacyTitles = () => (
-    { 'de': 'datenschutz', 'en': 'privacy', 'fr': 'protection des données' }[language]
+    { 'de': 'Datenschutz', 'en': 'Privacy', 'fr': 'Protection des données' }[language]
   )
 
   const LocaleLinks = () =>
