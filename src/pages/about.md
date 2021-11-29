@@ -54,7 +54,7 @@ languages:
 
       Zoff Gbr\
 
-      Lausitzerstraße 10\
+      Lausitzer Straße 10\
 
       Aufgang a\
 
