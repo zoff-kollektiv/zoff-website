@@ -74,7 +74,7 @@ languages:
 
       \
 
-      **Sie nehmen teil oder haben am Zoff-Abenteuer teilgenommen**\
+      **Sie haben am Zoff-Abenteuer teilgenommen**\
 
       Luise Menz, [Sandra Méndez](http://www.sandramendez.com), Nina Los
 
