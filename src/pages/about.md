@@ -424,7 +424,7 @@ languages:
 
       \
 
-      **Elles participent ou ont participé à l'aventure Zoff**\
+      **Elles ont participé à l'aventure Zoff**\
 
       Luise Menz, [Sandra Méndez](http://www.sandramendez.com), Nina Los
 
