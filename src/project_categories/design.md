@@ -101,7 +101,7 @@ projects:
     caption: Kein Schlussstrich! / Designsystem / 2021
     image: design-kein.jpg
     scale: 25
-  - last_project: true
+  - last_project: false
     caption: dekoder / special 'anders sein' / 2021
     scale: 50
     image: design-dekoder-1.jpg
