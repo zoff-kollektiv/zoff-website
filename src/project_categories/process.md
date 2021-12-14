@@ -84,4 +84,8 @@ projects:
     image: process-climatejustice-2.jpg
     caption: Climate Justice / Workshop / 2019
     scale: 30
+  - last_project: true
+    caption: Netzwerk Polylux / Fotoshooting / 2021
+    scale: 30
+    image: process-polylux-marlene.jpg
 ---
