@@ -88,4 +88,8 @@ projects:
     caption: Netzwerk Polylux / Fotoshooting / 2021
     scale: 30
     image: process-polylux-marlene.jpg
+  - last_project: false
+    caption: Moving Cities / Identität & Digital Karte / 2021
+    scale: 34
+    image: marseille-shape.png
 ---
