@@ -90,6 +90,6 @@ projects:
     image: process-polylux-marlene.jpg
   - last_project: false
     caption: Moving Cities / Identität & Digital Karte / 2021
-    scale: 34
+    scale: 50
     image: marseille-shape.png
 ---
