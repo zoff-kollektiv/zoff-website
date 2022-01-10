@@ -105,4 +105,9 @@ projects:
     caption: dekoder / special 'anders sein' / 2021
     scale: 50
     image: design-dekoder-1.jpg
+  - last_project: false
+    caption: Moving Cities / Digitale Karte / 2021
+    project_url: https://moving-cities.eu
+    scale: 50
+    image: 2-map-post.jpg
 ---
