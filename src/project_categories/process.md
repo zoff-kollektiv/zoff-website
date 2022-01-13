@@ -91,5 +91,5 @@ projects:
   - last_project: false
     caption: Moving Cities / Identität & Digital Karte / 2021
     scale: 50
-    image: marseille-shape.png
+    image: mc-marseille-c-zoff.jpg
 ---
