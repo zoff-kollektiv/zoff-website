@@ -109,5 +109,5 @@ projects:
     caption: Moving Cities / Digitale Karte / 2021
     project_url: https://moving-cities.eu
     scale: 50
-    image: movingcities.gif
+    image: design-movingcities.gif
 ---
