@@ -50,6 +50,15 @@ languages:
 
       \
 
+      **Jobs**
+
+      Wir sind auf der Suche nach einer Geschäftsführung. [Hier ist die Ausschreibung](https://www.zoff-kollektiv.net/job.pdf). Bewirb Dich bis zum 23.6. bei uns. 
+
+
+      \
+
+      \
+
       **Kontakt**\
 
       Zoff Gbr\
