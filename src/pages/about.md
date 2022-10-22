@@ -101,7 +101,7 @@ languages:
 
       **Infos**\
 
-      Coding: [Coderat](https://coderat.cc)\
+      Coding: [codeRat](https://coderat.cc)\
 
       Font: PMN Caecilia\
 
@@ -293,7 +293,7 @@ languages:
 
       **Info**\
 
-      Coding: [Coderat](https://coderat.cc)\
+      Coding: [codeRat](https://coderat.cc)\
 
       Font: PMN Caecilia\
 
@@ -451,7 +451,7 @@ languages:
 
       **Informations**\
 
-      Coding: [Coderat](https://coderat.cc)\
+      Coding: [codeRat](https://coderat.cc)\
 
       Font: PMN Caecilia\
 
