@@ -110,4 +110,9 @@ projects:
     project_url: https://moving-cities.eu
     scale: 50
     image: design-movingcities-3.gif
+  - last_project: false
+    caption: Frauenorte Brandenburg / Relaunch Webseite / 2022
+    project_url: https://frauenorte-brandenburg.de/
+    image: design-frauenorte-bb.gif
+    scale: 45
 ---
