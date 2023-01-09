@@ -113,6 +113,6 @@ projects:
   - last_project: false
     caption: Frauenorte Brandenburg / Relaunch Webseite / 2022
     project_url: https://frauenorte-brandenburg.de/
-    image: design-frauenorte-bb.gif
+    image: design-frauenorte-bb-clara-zetkin.jpg
     scale: 45
 ---
