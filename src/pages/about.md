@@ -274,9 +274,7 @@ languages:
       \
 
       **They have participated in the Zoff adventure.**\
-
-      Luise Menz, [Sandra Méndez](http://www.sandramendez.com), Nina Los
-
+       Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz
       \
 
       \
