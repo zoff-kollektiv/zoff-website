@@ -49,8 +49,6 @@ languages:
 
       \
 
-      \
-
       **Kontakt**\
 
       Zoff Gbr\
