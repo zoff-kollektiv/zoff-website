@@ -46,14 +46,6 @@ languages:
 
       Wir sind Teil mehrerer Netzwerke und Bewegungen. **Wir sind mehr als nur wir.**
 
-      \
-
-      \
-
-      **Jobs**
-
-      Wir sind auf der Suche nach einer Geschäftsführung. [Hier ist die Ausschreibung](https://www.zoff-kollektiv.net/job.pdf). Bewirb Dich bei uns. 
-
 
       \
 
@@ -65,7 +57,7 @@ languages:
 
       Lausitzer Straße 10\
 
-      Aufgang a\
+      Aufgang b\
 
       10999 Berlin\
 
@@ -255,7 +247,7 @@ languages:
 
       Lausitzerstraße 10\
 
-      Aufgang a\
+      Aufgang b\
 
       10999 Berlin\
 
@@ -414,7 +406,7 @@ languages:
 
       lausitzerstraße 10\
 
-      aufgang A\
+      aufgang b\
 
       10999 berlin\
 
