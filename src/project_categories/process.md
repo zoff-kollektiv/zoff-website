@@ -7,11 +7,6 @@ projects:
     scale: 35
     image: process-aboutunited.jpg
     last_project: false
-  - caption: Analyse und Kritik / Workshop / 2019
-    project_url: ""
-    scale: 35
-    image: process-ak.jpg
-    last_project: false
   - last_project: false
     image: process-digitalgewalt.jpg
     caption: Digital ist real / Clipshooting / 2020
@@ -24,10 +19,6 @@ projects:
     image: process-nbk.jpg
     caption: Relearning bearing witness / Workshop / 2021
     scale: 30
-  - last_project: false
-    image: process-student.jpg
-    caption: Studiobesuch der Burg Giebichenstein Kunsthochschule Halle / 2020
-    scale: 40
   - last_project: false
     image: process-bff.jpg
     caption: Produktion der Clips »Was geht bei Euch?« / BFF / 2019
@@ -52,10 +43,6 @@ projects:
     caption: Zoff in der Missy / Interview / 2021
     scale: 30
     image: zoff-missy-1.jpg
-  - last_project: false
-    caption: A – Z / Podiumsdiskussion / 2019
-    image: process-a-z.jpg
-    scale: 25
   - last_project: false
     caption: Luft zum atmen / labournet TV / 2019
     scale: 50
