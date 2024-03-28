@@ -33,16 +33,8 @@ projects:
     caption: Racial Profiling / Rosa Luxemburg Stiftung / 2020
     scale: 35
   - last_project: false
-    image: context-trauma.jpg
-    caption: Kontextualisierte Traumaarbeit / BFF / 2021
-    scale: 45
-  - last_project: false
     image: context-apartheidno.jpg
     caption: Apartheid No! / Rosa Luxemburg Stiftung / 2019
-    scale: 35
-  - last_project: false
-    image: context-wariswar.jpg
-    caption: War is war / Tatyana Yassievich / 2019
     scale: 35
   - last_project: false
     caption: Analyse & Kritik / 2020
