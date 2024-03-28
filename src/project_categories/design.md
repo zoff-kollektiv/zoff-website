@@ -82,10 +82,6 @@ projects:
     caption: Berliner Zustände / Apabiz & mbr / 2019
     scale: 30
   - last_project: false
-    image: design-soluch.jpg
-    scale: 25
-    caption: Goska Soluch / Webseite / 2019
-  - last_project: false
     image: design-berlinerzustaende-04.png
     caption: Berliner Zustände / apabiz & Mbr / 2019
     scale: 30
@@ -101,10 +97,6 @@ projects:
     caption: Kein Schlussstrich! / Designsystem / 2021
     image: design-kein.jpg
     scale: 25
-  - last_project: false
-    caption: dekoder / special 'anders sein' / 2021
-    scale: 50
-    image: design-dekoder-1.jpg
   - last_project: false
     caption: Moving Cities / Digitale Karte / 2021
     project_url: https://moving-cities.eu
