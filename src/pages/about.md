@@ -74,7 +74,9 @@ languages:
       \
 
       **Sie haben am Zoff-Abenteuer teilgenommen**\
-       Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz 
+
+      Susanne Beer, Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz 
+
       \
 
       \
@@ -264,7 +266,9 @@ languages:
       \
 
       **They have participated in the Zoff adventure.**\
-       Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz
+
+      Susanne Beer,  Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz
+
       \
 
       \
@@ -418,7 +422,9 @@ languages:
       \
 
       **Elles ont participé à l'aventure Zoff**\
-       Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz
+
+      Susanne Beer, Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz
+
       \
 
       \
