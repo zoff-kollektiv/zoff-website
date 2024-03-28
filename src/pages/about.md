@@ -133,7 +133,7 @@ languages:
 
       Vertreten durch
 
-      Susanne Beer, Laura Maikowski, Pierre Maite
+      Laura Maikowski, Pierre Maite
 
       \
 
@@ -291,8 +291,6 @@ languages:
 
       »Präsentation der Webdoku / Bruderland «: [Stephan Röhl](https://www.flickr.com/photos/boellstiftung/49060063206/in/photostream/)
     privacy: >-
-      
-
       Datenschutz
 
       Stand: 1. Juli 2021
@@ -318,7 +316,7 @@ languages:
          10999 Berlin
          \
          Vertreten durch
-         Susanne Beer, Laura Maikowski, Pierre Maite
+         Laura Maikowski, Pierre Maite
          \
          Kontakt
          E-Mail: kontakt@zoff-kollektiv.net
@@ -447,8 +445,6 @@ languages:
 
       »Präsentation der Webdoku / Bruderland «: [Stephan Röhl](https://www.flickr.com/photos/boellstiftung/49060063206/in/photostream/)
     privacy: >-
-      
-
       Datenschutz
 
       Stand: 1. Juli 2021
@@ -474,7 +470,7 @@ languages:
          10999 Berlin
          \
          Vertreten durch
-         Susanne Beer, Laura Maikowski, Pierre Maite
+         Laura Maikowski, Pierre Maite
          \
          Kontakt
          E-Mail: kontakt@zoff-kollektiv.net
