@@ -65,17 +65,9 @@ languages:
 
       \
 
-      **Ohne sie wäre Zoff nicht Zoff**\
-
-      [Gustav Pursche](https://gu.stav.dev), Tilman Miraß, [Lause 10](https://lause10.de)
-
-      \
-
-      \
-
       **Sie haben am Zoff-Abenteuer teilgenommen**\
 
-      Susanne Beer, Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz 
+      Susanne Beer, [Gustav Hansen](https://gu.stav.dev), Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz, [Tilman Miraß](https://www.dot.studio/en/)
 
       \
 
@@ -83,7 +75,7 @@ languages:
 
       **Mitstreiter*innen**\
 
-      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Cai Schmitz-Weicht](https://freizeile.de), [Noa Snir](https://noasnir.com), [Verena Brüning](https://www.verenabruening.de)
+      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Noa Snir](https://noasnir.com), [Verena Brüning](https://www.verenabruening.de)
 
       \
 
@@ -257,17 +249,9 @@ languages:
 
       \
 
-      **Without them, zoff would not be zoff**\
-
-      [Gustav Pursche](https://gu.stav.dev), Tilman Miraß, [Lause 10](https://lause10.de)
-
-      \
-
-      \
-
       **They have participated in the Zoff adventure.**\
 
-      Susanne Beer,  Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz
+      Susanne Beer, [Gustav Hansen](https://gu.stav.dev), Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz, [Tilman Miraß](https://www.dot.studio/en/)
 
       \
 
@@ -275,7 +259,7 @@ languages:
 
       **They work often with us**\
 
-      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Cai Schmitz-Weicht](https://freizeile.de), [Noa Snir](https://noasnir.com), [Verena Brüning](https://www.verenabruening.de)
+      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Noa Snir](https://noasnir.com), [Verena Brüning](https://www.verenabruening.de)
 
       \
 
@@ -413,17 +397,11 @@ languages:
       [kontakt@zoff-kollektiv.net](<mailto: kontakt@zoff-kollektiv.net>)
 
 
-      **Sans eux Zoff ne serait pas Zoff**\
-
-      [Gustav Pursche](https://gu.stav.dev), Tilman Miraß, [Lause 10](https://lause10.de)
-
-      \
-
       \
 
       **Elles ont participé à l'aventure Zoff**\
 
-      Susanne Beer, Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz
+      Susanne Beer, [Gustav Hansen](https://gu.stav.dev), Nina Los, Laura Martinez, [Sandra Méndez](http://www.sandramendez.com), Luise Menz, [Tilman Miraß](https://www.dot.studio/en/)
 
       \
 
@@ -431,7 +409,7 @@ languages:
 
       **Collaborat·rices·eurs régulier·e·s**\
 
-      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Cai Schmitz-Weicht](https://freizeile.de), [Noa Snir](https://noasnir.com), [Verena Brüning](https://www.verenabruening.de)
+      [Sylvain Mazas](ttps://sylvainmazas.net), [Lisa Klinkenberg](http://buero-achso.de), [Systrar](http://systrarproductions.com), [Marc Wright](https://marcwright.de), [jib collective](https://jib-collective.net), [Noa Snir](https://noasnir.com), [Verena Brüning](https://www.verenabruening.de)
 
       \
 
