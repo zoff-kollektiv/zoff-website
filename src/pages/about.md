@@ -94,6 +94,11 @@ languages:
       »Mietendemo / Lause Lebt«: [Umbruch Bildarchiv](https://umbruch-bildarchiv.org)\
 
       »Präsentation der Webdoku / Bruderland «: [Stephan Röhl](https://www.flickr.com/photos/boellstiftung/49060063206/in/photostream/)
+
+
+      **AGB**\
+
+      Allgemeine Geschäftsbedingungen der Zoff GbR
     privacy: >-
       Datenschutz
 
