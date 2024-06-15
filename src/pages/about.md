@@ -2,7 +2,7 @@
 languages:
   - language: de
     body: >-
-      **Wir sind Zoff**, ein Kollektiv für visuelle Kommunikation. 
+      **Wir sind Zoff**, ein Kollektiv für visuelle Kommunikation.
 
       \
 
@@ -95,10 +95,6 @@ languages:
 
       »Präsentation der Webdoku / Bruderland «: [Stephan Röhl](https://www.flickr.com/photos/boellstiftung/49060063206/in/photostream/)
 
-
-      **AGB**\
-
-      Allgemeine Geschäftsbedingungen der Zoff GbR
     privacy: >-
       Datenschutz
 

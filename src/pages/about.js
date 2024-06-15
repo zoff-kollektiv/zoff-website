@@ -60,6 +60,9 @@ const About = ({ data }) => {
         <div className="content">
           <ReactMarkdown>{localizedContent().body}</ReactMarkdown>
 
+
+          {language == "de" &&
+            <><strong><a href="/Zoff_AGB.pdf">Allgemeine Geschäftsbedingungen der Zoff GbR</a></strong><br/><br/></>}
           <Privacy />
         </div>
       </div>
